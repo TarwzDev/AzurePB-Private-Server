@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="15"> ;Caixa Mummy
+<Item Index="0" Id="100003267" Count="5184000" Equip="1" Percent="10" Special="false"/> ;AUG A3 Mummy 60D
+<Item Index="0" Id="702001139" Count="5184000" Equip="1" Percent="10" Special="false"/> ;Amok Kukri Mummy 60D
+<Item Index="1" Id="100003267" Count="2592000" Equip="1" Percent="17" Special="false"/> ;AUG A3 Mummy 30D
+<Item Index="1" Id="702001139" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Amok Kukri Mummy 30D
+<Item Index="2" Id="100003267" Count="604800" Equip="1" Percent="55" Special="false"/> ;AUG A3 Mummy 7D
+<Item Index="2" Id="702001139" Count="604800" Equip="1" Percent="55" Special="false"/> ;Amok Kukri Mummy 7D
+<Item Index="3" Id="100003267" Count="259200" Equip="1" Percent="100" Special="false"/> ;AUG A3 Mummy 3D
+<Item Index="3" Id="702001139" Count="259200" Equip="1" Percent="100" Special="false"/> ;Amok Kukri Mummy 3D
+
+<Item Index="4" Id="200004278" Count="5184000" Equip="1" Percent="10" Special="false"/> ;Kriss S.V Mummy 60D
+<Item Index="4" Id="803007057" Count="5184000" Equip="1" Percent="10" Special="false"/> ;Mummy Grenade 60D
+<Item Index="5" Id="200004278" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Kriss S.V Mummy 30D
+<Item Index="5" Id="803007057" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Mummy Grenade 30D
+<Item Index="6" Id="200004278" Count="604800" Equip="1" Percent="55" Special="false"/> ;Kriss S.V Mummy 7D
+<Item Index="6" Id="803007057" Count="604800" Equip="1" Percent="55" Special="false"/> ;Mummy Grenade 7D
+<Item Index="7" Id="200004278" Count="259200" Equip="1" Percent="100" Special="false"/> ;Kriss S.V Mummy 3D
+<Item Index="7" Id="803007057" Count="259200" Equip="1" Percent="100" Special="false"/> ;Mummy Grenade 3D
+
+<Item Index="8" Id="601002088" Count="5184000" Equip="1" Percent="10" Special="false"/> ;Glock 18 Mummy 60D
+<Item Index="8" Id="1104003234" Count="5184000" Equip="1" Percent="10" Special="false"/> ;Mummy Mask 60D
+<Item Index="9" Id="601002088" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Glock 18 Mummy 30D
+<Item Index="9" Id="1104003234" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Mummy Mask 30D
+<Item Index="10" Id="601002088" Count="604800" Equip="1" Percent="55" Special="false"/> ;Glock 18 Mummy 7D
+<Item Index="10" Id="1104003234" Count="604800" Equip="1" Percent="55" Special="false"/> ;Mummy Mask 7D
+<Item Index="11" Id="601002088" Count="259200" Equip="1" Percent="100" Special="false"/> ;Glock 18 Mummy 3D
+<Item Index="11" Id="1104003234" Count="259200" Equip="1" Percent="100" Special="false"/> ;Mummy Mask 3D
+
+<Item Index="12" Id="500010014" Count="5184000" Equip="1" Percent="20" Special="false"/> ;Ultimax 100 Mummy 60D
+<Item Index="13" Id="500010014" Count="2592000" Equip="1" Percent="35" Special="false"/> ;Ultimax 100 Mummy 30D
+<Item Index="14" Id="500010014" Count="604800" Equip="1" Percent="55" Special="false"/> ;Ultimax 100 Mummy 7D
+<Item Index="15" Id="500010014" Count="259200" Equip="1" Percent="100" Special="false"/> ;Ultimax 100 Mummy 3D
+</List>

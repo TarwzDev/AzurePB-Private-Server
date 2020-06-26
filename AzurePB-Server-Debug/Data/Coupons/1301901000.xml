@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="15"> ;Horror Random Box
+<Item Index="0" Id="100003232" Count="7776000" Equip="1" Percent="10" Special="false"/> ;AUG A3 Horror 90D
+<Item Index="0" Id="1104003214" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Máscara do Horror 90D
+<Item Index="1" Id="100003232" Count="2592000" Equip="1" Percent="17" Special="false"/> ;AUG A3 Horror 30D
+<Item Index="1" Id="1104003214" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Máscara do Horror 30D
+<Item Index="2" Id="100003232" Count="864000" Equip="1" Percent="55" Special="false"/> ;AUG A3 Horror 10D
+<Item Index="2" Id="1104003214" Count="864000" Equip="1" Percent="55" Special="false"/> ;Máscara do Horror 10D
+<Item Index="3" Id="100003232" Count="604800" Equip="1" Percent="100" Special="false"/> ;AUG A3 Horror 7D
+<Item Index="3" Id="1104003214" Count="604800" Equip="1" Percent="100" Special="false"/> ;Máscara do Horror 7D
+
+<Item Index="4" Id="300005131" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Cheytac M200 Horror 90D
+<Item Index="4" Id="1104003214" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Máscara do Horror 90D
+<Item Index="5" Id="300005131" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Cheytac M200 Horror 30D
+<Item Index="5" Id="1104003214" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Máscara do Horror 30D
+<Item Index="6" Id="300005131" Count="864000" Equip="1" Percent="55" Special="false"/> ;Cheytac M200 Horror 10D
+<Item Index="6" Id="1104003214" Count="864000" Equip="1" Percent="55" Special="false"/> ;Máscara do Horror 10D
+<Item Index="7" Id="300005131" Count="604800" Equip="1" Percent="100" Special="false"/> ;Cheytac M200 Horror 7D
+<Item Index="7" Id="1104003214" Count="604800" Equip="1" Percent="100" Special="false"/> ;Máscara do Horror 7D
+
+<Item Index="8" Id="200004239" Count="7776000" Equip="1" Percent="10" Special="false"/> ;P90 Ext Horror 90D
+<Item Index="8" Id="1104003214" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Máscara do Horror 90D
+<Item Index="9" Id="200004239" Count="2592000" Equip="1" Percent="17" Special="false"/> ;P90 Ext Horror 30D
+<Item Index="9" Id="1104003214" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Máscara do Horror 30D
+<Item Index="10" Id="200004239" Count="864000" Equip="1" Percent="55" Special="false"/> ;P90 Ext Horror 10D
+<Item Index="10" Id="1104003214" Count="864000" Equip="1" Percent="55" Special="false"/> ;Máscara do Horror 10D
+<Item Index="11" Id="200004239" Count="604800" Equip="1" Percent="100" Special="false"/> ;P90 Ext Horror 7D
+<Item Index="11" Id="1104003214" Count="604800" Equip="1" Percent="100" Special="false"/> ;Máscara do Horror 7D
+
+<Item Index="12" Id="200004237" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Kriss S.V Horror 90D
+<Item Index="12" Id="1104003214" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Máscara do Horror 90D
+<Item Index="13" Id="200004237" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Kriss S.V Horror 30D
+<Item Index="13" Id="1104003214" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Máscara do Horror 30D
+<Item Index="14" Id="200004237" Count="864000" Equip="1" Percent="55" Special="false"/> ;Kriss S.V Horror 10D
+<Item Index="14" Id="1104003214" Count="864000" Equip="1" Percent="55" Special="false"/> ;Máscara do Horror 10D
+<Item Index="15" Id="200004237" Count="604800" Equip="1" Percent="100" Special="false"/> ;Kriss S.V Horror 7D
+<Item Index="15" Id="1104003214" Count="604800" Equip="1" Percent="100" Special="false"/> ;Máscara do Horror 7D
+</List>

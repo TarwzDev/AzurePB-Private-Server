@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="20"> ;Caixa Dark Steel
+	<Item Index="0" Id="100003295" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;AUG A3 Dark Steel 60D
+	<Item Index="0" Id="601002098" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Dark Steel 60D
+	<Item Index="1" Id="200004318" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;Kriss S.V Dark Steel 60D
+	<Item Index="1" Id="601002098" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Dark Steel 60D
+	<Item Index="2" Id="300005185" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;Cheytac M200 Dark Steel 60D
+	<Item Index="2" Id="601002098" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Dark Steel 60D
+	<Item Index="3" Id="200004320" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;P90 Ext Dark Steel 60D
+	<Item Index="3" Id="601002098" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Dark Steel 60D
+	<Item Index="4" Id="400006080" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;M1887 Dark Steel 60D
+	<Item Index="4" Id="601002098" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Dark Steel 60D
+
+	<Item Index="5" Id="100003295" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;AUG A3 Dark Steel 30D
+	<Item Index="5" Id="601002098" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Dark Steel 30D
+	<Item Index="6" Id="200004318" Count="2592000" Equip="1" Percent="22" Special="false"/>    ;Kriss S.V Dark Steel 30D
+	<Item Index="6" Id="601002098" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Dark Steel 30D
+	<Item Index="7" Id="300005185" Count="2592000" Equip="1" Percent="22" Special="false"/>    ;Cheytac M200 Dark Steel 30D
+	<Item Index="7" Id="601002098" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Dark Steel 30D
+	<Item Index="8" Id="200004320" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;P90 Dark Steel 30D
+	<Item Index="8" Id="601002098" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Dark Steel 30D
+	<Item Index="9" Id="400006080" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;M1887 Dark Steel 30D
+	<Item Index="9" Id="601002098" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Dark Steel 30D
+
+	<Item Index="10" Id="100003295" Count="604800" Equip="1" Percent="75" Special="false"/>     ;AUG A3 Dark Steel 7D
+	<Item Index="11" Id="200004318" Count="604800" Equip="1" Percent="75" Special="false"/>    ;Kriss S.V Dark Steel 7D
+	<Item Index="12" Id="300005185" Count="604800" Equip="1" Percent="75" Special="false"/>    ;Cheytac M200 Dark Steel 7D
+	<Item Index="13" Id="200004320" Count="604800" Equip="1" Percent="75" Special="false"/>     ;P90 Dark Steel 7D
+	<Item Index="14" Id="400006080" Count="604800" Equip="1" Percent="75" Special="false"/>     ;M1887 Dark Steel 7D
+
+	<Item Index="15" Id="100003295" Count="259200" Equip="1" Percent="100" Special="false"/>     ;AUG A3 Dark Steel 3D
+	<Item Index="16" Id="200004318" Count="259200" Equip="1" Percent="100" Special="false"/>    ;Kriss S.V Dark Steel 3D
+	<Item Index="17" Id="300005185" Count="259200" Equip="1" Percent="100" Special="false"/>    ;Cheytac M200 Dark Steel 3D
+	<Item Index="18" Id="200004320" Count="259200" Equip="1" Percent="100" Special="false"/>     ;P90 Dark Steel 3D
+	<Item Index="19" Id="400006080" Count="259200" Equip="1" Percent="100" Special="false"/>     ;M1887 Dark Steel 3D
+	<Item Index="20" Id="702001150" Count="15552000" Equip="1" Percent="15" Special="true"/>     ;Machete de Combate Newborn2016 180D
+</List>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="20"> ;Caixa Supreme
+<Item Index="0" Id="100003299" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;AUG A3 Supreme 60D
+<Item Index="0" Id="601002100" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Supreme 60D
+
+<Item Index="1" Id="200004325" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;Kriss S.V Supreme 60D
+<Item Index="1" Id="601002100" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Supreme 60D
+
+<Item Index="2" Id="300005188" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;Cheytac M200 Supreme 60D
+<Item Index="2" Id="601002100" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Supreme 60D
+
+<Item Index="3" Id="200004327" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;P90 Ext Supreme 60D
+<Item Index="3" Id="601002100" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Supreme 60D
+
+<Item Index="4" Id="400006082" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;M1887 Supreme 60D
+<Item Index="4" Id="601002100" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Supreme 60D
+
+<Item Index="5" Id="100003299" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;AUG A3 Supreme 30D
+<Item Index="5" Id="601002100" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Supreme 30D
+
+<Item Index="6" Id="200004325" Count="2592000" Equip="1" Percent="22" Special="false"/>    ;Kriss S.V Supreme 30D
+<Item Index="6" Id="601002100" Count="2592000" Equip="1" Percent="22" Special="false"/>    ;C. Python Supreme 30D
+
+<Item Index="7" Id="300005188" Count="2592000" Equip="1" Percent="22" Special="false"/>    ;Cheytac M200 Supreme 30D
+<Item Index="7" Id="601002100" Count="2592000" Equip="1" Percent="22" Special="false"/>    ;C. Python Supreme 30D
+
+<Item Index="8" Id="200004327" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;P90 Supreme 30D
+<Item Index="8" Id="601002100" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Supreme 30D
+
+<Item Index="9" Id="400006082" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;M1887 Supreme 30D
+<Item Index="9" Id="601002100" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Supreme 30D
+
+<Item Index="10" Id="100003299" Count="604800" Equip="1" Percent="75" Special="false"/>     ;AUG A3 Supreme 7D
+<Item Index="11" Id="200004325" Count="604800" Equip="1" Percent="75" Special="false"/>    ;Kriss S.V Supreme 7D
+<Item Index="12" Id="300005188" Count="604800" Equip="1" Percent="75" Special="false"/>    ;Cheytac M200 Supreme 7D
+<Item Index="13" Id="200004327" Count="604800" Equip="1" Percent="75" Special="false"/>     ;P90 Supreme 7D
+<Item Index="14" Id="400006082" Count="604800" Equip="1" Percent="75" Special="false"/>     ;M1887 Supreme 7D
+
+<Item Index="15" Id="100003299" Count="259200" Equip="1" Percent="100" Special="false"/>     ;AUG A3 Supreme 3D
+<Item Index="16" Id="200004325" Count="259200" Equip="1" Percent="100" Special="false"/>    ;Kriss S.V Supreme 3D
+<Item Index="17" Id="300005188" Count="259200" Equip="1" Percent="100" Special="false"/>    ;Cheytac M200 Supreme 3D
+<Item Index="18" Id="200004327" Count="259200" Equip="1" Percent="100" Special="false"/>     ;P90 Supreme 3D
+<Item Index="19" Id="400006082" Count="259200" Equip="1" Percent="100" Special="false"/>     ;M1887 Supreme 3D
+<Item Index="20" Id="601002091" Count="15552000" Equip="1" Percent="15" Special="true"/>     ;Mk.23 Alien 180D
+</List>

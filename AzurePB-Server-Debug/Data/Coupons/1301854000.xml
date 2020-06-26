@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="15"> ;Caixa Camo Soldier
+<Item Index="0" Id="100003228" Count="7776000" Equip="1" Percent="10" Special="false"/> ;AUG A3 Camo Soldier 90D
+<Item Index="0" Id="601002074" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Kriss Vector SDP Camo Soldier 90D
+<Item Index="1" Id="100003228" Count="2592000" Equip="1" Percent="17" Special="false"/> ;AUG A3 Camo Soldier 30D
+<Item Index="1" Id="601002074" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Kriss Vector SDP Camo Soldier 30D
+<Item Index="2" Id="100003228" Count="604800" Equip="1" Percent="60" Special="false"/> ;AUG A3 Camo Soldier 7D
+<Item Index="2" Id="601002074" Count="604800" Equip="1" Percent="60" Special="false"/> ;Kriss Vector SDP Camo Soldier 7D
+<Item Index="3" Id="100003228" Count="86400" Equip="1" Percent="100" Special="false"/> ;AUG A3 Camo Soldier 1D
+<Item Index="3" Id="601002074" Count="86400" Equip="1" Percent="100" Special="false"/> ;Kriss Vector SDP Camo Soldier 1D
+
+<Item Index="4" Id="300005128" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Rangemaster .338 Camo Soldier 90D
+<Item Index="4" Id="1105003013" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Chapéu Camo Soldier 90D
+<Item Index="5" Id="300005128" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Rangemaster .338 Camo Soldier 30D
+<Item Index="5" Id="1105003013" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Chapéu Camo Soldier 30D
+<Item Index="6" Id="300005128" Count="604800" Equip="1" Percent="60" Special="false"/> ;Rangemaster .338 Camo Soldier 7D
+<Item Index="6" Id="1105003013" Count="604800" Equip="1" Percent="60" Special="false"/> ;Chapéu Camo Soldier 7D
+<Item Index="7" Id="300005128" Count="86400" Equip="1" Percent="100" Special="false"/> ;Rangemaster .338 Camo Soldier 1D
+<Item Index="7" Id="1105003013" Count="86400" Equip="1" Percent="100" Special="false"/> ;Chapéu Camo Soldier 1D
+
+<Item Index="8" Id="200004234" Count="7776000" Equip="1" Percent="10" Special="false"/> ;P90 M.C Camo Soldier 90D
+<Item Index="8" Id="702015010" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Faca de Osso Camo Soldier 90D
+<Item Index="9" Id="200004234" Count="2592000" Equip="1" Percent="17" Special="false"/> ;P90 M.C Camo Soldier 30D
+<Item Index="9" Id="702015010" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Faca de Osso Camo Soldier 30D
+<Item Index="10" Id="200004234" Count="604800" Equip="1" Percent="60" Special="false"/> ;P90 M.C Camo Soldier 7D
+<Item Index="10" Id="702015010" Count="604800" Equip="1" Percent="60" Special="false"/> ;Faca de Osso Camo Soldier 7D
+<Item Index="11" Id="200004234" Count="86400" Equip="1" Percent="100" Special="false"/> ;P90 M.C Camo Soldier 1D
+<Item Index="11" Id="702015010" Count="86400" Equip="1" Percent="100" Special="false"/> ;Faca de Osso Camo Soldier 1D
+
+<Item Index="12" Id="100003229" Count="7776000" Equip="1" Percent="10" Special="false"/> ;G36C Camo Soldier 90D
+<Item Index="12" Id="1105003013" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Chapéu Camo Soldier 90D
+<Item Index="13" Id="100003229" Count="2592000" Equip="1" Percent="17" Special="false"/> ;G36C Camo Soldier 30D
+<Item Index="13" Id="1105003013" Count="2592000" Equip="1" Percent="17" Special="false"/> ;Chapéu Camo Soldier 30D
+<Item Index="14" Id="100003229" Count="604800" Equip="1" Percent="60" Special="false"/> ;G36C Camo Soldier 7D
+<Item Index="14" Id="1105003013" Count="604800" Equip="1" Percent="60" Special="false"/> ;Chapéu Camo Soldier 7D
+<Item Index="15" Id="100003229" Count="86400" Equip="1" Percent="100" Special="false"/> ;G36C Camo Soldier 1D
+<Item Index="15" Id="1105003013" Count="86400" Equip="1" Percent="100" Special="false"/> ;Chapéu Camo Soldier 1D
+</List>

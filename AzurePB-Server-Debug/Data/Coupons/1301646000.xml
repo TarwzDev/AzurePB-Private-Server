@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="10"> ;Caixa aleatória das tropas Elite
+<Item Index="0" Id="1301647000" Count="1" Equip="1" Percent="70" Special="false"/> ;Caixa aleatória das tropas da AK Elite
+<Item Index="1" Id="1301648000" Count="1" Equip="1" Percent="50" Special="false"/> ;Caixa aleatória das tropas da Dragunov Elite
+<Item Index="2" Id="1301649000" Count="1" Equip="1" Percent="70" Special="false"/> ;Caixa aleatória das tropas da G36C Elite
+<Item Index="3" Id="1301650000" Count="1" Equip="1" Percent="50" Special="false"/> ;Caixa aleatória das tropas da M4A1 Elite
+<Item Index="4" Id="1301651000" Count="1" Equip="1" Percent="70" Special="false"/> ;Caixa aleatória das tropas da PSG1 Elite
+<Item Index="5" Id="1301652000" Count="1" Equip="1" Percent="50" Special="false"/> ;Caixa aleatória das tropas da SPAS Elite
+<Item Index="6" Id="1301653000" Count="1" Equip="1" Percent="700" Special="false"/> ;Caixa aleatória das tropas da SVU Elite
+<Item Index="7" Id="1301654000" Count="1" Equip="1" Percent="50" Special="false"/> ;Caixa aleatória das tropas da VSK94 Elite
+<Item Index="8" Id="0" Count="100000" Equip="21" Percent="60" Special="false"/> ;100,000 pontos
+<Item Index="9" Id="0" Count="10000" Equip="21" Percent="95" Special="false"/> ;10,000 pontos
+<Item Index="10" Id="0" Count="3000" Equip="21" Percent="100" Special="false"/> ;3,000 pontos
+</List>

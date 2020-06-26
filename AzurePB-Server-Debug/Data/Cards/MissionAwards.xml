@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Mission Id="1" BlueOrder="0" Exp="0" Point="2000"/>
+	<Mission Id="2" BlueOrder="0" Exp="0" Point="0"/>
+	<Mission Id="3" BlueOrder="0" Exp="0" Point="0"/>
+	<Mission Id="5" BlueOrder="1" Exp="500" Point="0"/>
+	<Mission Id="6" BlueOrder="1" Exp="500" Point="0"/>
+	<Mission Id="7" BlueOrder="1" Exp="500" Point="0"/>
+	<Mission Id="8" BlueOrder="1" Exp="700" Point="0"/>
+	<Mission Id="9" BlueOrder="1" Exp="1000" Point="0"/>
+	<Mission Id="10" BlueOrder="1" Exp="2000" Point="0"/>
+	<Mission Id="11" BlueOrder="1" Exp="3000" Point="0"/>
+	<Mission Id="12" BlueOrder="1" Exp="4000" Point="0"/>
+	<Mission Id="14" BlueOrder="0" Exp="0" Point="0"/>
+	<Mission Id="15" BlueOrder="0" Exp="0" Point="0"/>
+	<Mission Id="16" BlueOrder="0" Exp="0" Point="0"/>
+	<Mission Id="17" BlueOrder="0" Exp="0" Point="0"/>
+</List>

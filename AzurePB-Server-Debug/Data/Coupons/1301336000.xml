@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="14"> ;Caixa Especial PBIC
+<Item Index="0" Id="100003219" Count="2592000" Equip="1" Percent="100" Special="false"/>     ;AUG A3 PBIC 2015 30D
+<Item Index="0" Id="601002070" Count="2592000" Equip="1" Percent="100" Special="false"/>     ;RB.454 SS8M PBIC 2015 30D
+
+<Item Index="1" Id="300005120" Count="2592000" Equip="1" Percent="100" Special="false"/>     ;Cheytac M200 PBIC 2015 30D
+<Item Index="1" Id="601002070" Count="2592000" Equip="1" Percent="100" Special="false"/>     ;RB.454 SS8M PBIC 2015 30D
+
+<Item Index="2" Id="200004218" Count="2592000" Equip="1" Percent="100" Special="false"/>     ;P90 Ext. PBIC 2015 30D
+<Item Index="2" Id="702001104" Count="2592000" Equip="1" Percent="100" Special="false"/>     ;Keris PBIC 2015 30D
+
+<Item Index="3" Id="200004216" Count="2592000" Equip="1" Percent="80" Special="false"/>     ;Kriss SV PBIC 2015 30D
+<Item Index="3" Id="1104003209" Count="2592000" Equip="1" Percent="80" Special="false"/>     ;Máscara PBIC 2015 Premium 30D
+
+<Item Index="4" Id="400006058" Count="2592000" Equip="1" Percent="100" Special="false"/>     ;M1887 PBIC 2015 30D
+<Item Index="4" Id="1104003210" Count="2592000" Equip="1" Percent="100" Special="false"/>     ;Máscara PBIC 2015 Básica 30D
+
+<Item Index="5" Id="100003159" Count="2592000" Equip="1" Percent="65" Special="false"/>     ;Aug A3 PBIC 2014 30D
+<Item Index="5" Id="1104003182" Count="2592000" Equip="1" Percent="65" Special="false"/>     ;Máscara PBIC 2014 30D
+
+<Item Index="6" Id="300005087" Count="2592000" Equip="1" Percent="65" Special="false"/>    ;Cheytac M200 PBIC 2014 30D
+<Item Index="6" Id="1104003182" Count="2592000" Equip="1" Percent="65" Special="false"/>    ;Máscara PBIC 2014 30D
+
+<Item Index="7" Id="200004146" Count="2592000" Equip="1" Percent="65" Special="false"/>    ;P90 Ext. PBIC 2014 30D
+<Item Index="7" Id="1104003182" Count="2592000" Equip="1" Percent="65" Special="false"/>    ;Máscara PBIC 2014 30D
+
+<Item Index="8" Id="400006038" Count="2592000" Equip="1" Percent="65" Special="false"/>     ;M1887 PBIC 2014 30D
+<Item Index="8" Id="1104003182" Count="2592000" Equip="1" Percent="65" Special="false"/>     ;Máscara PBIC 2014 30D
+
+<Item Index="9" Id="100003120" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;Aug A3 PBIC 2013 30D
+<Item Index="9" Id="1104003129" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;Máscara PBIC 2013 30D
+
+<Item Index="10" Id="200004103" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;Kriss SV PBIC 2013 30D
+<Item Index="10" Id="1104003129" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;Máscara PBIC 2013 30D
+
+<Item Index="11" Id="100003121" Count="2592000" Equip="1" Percent="45" Special="false"/>    ;M4A1 PBIC 2013 30D
+<Item Index="11" Id="1104003129" Count="2592000" Equip="1" Percent="45" Special="false"/>    ;Máscara PBIC 2013 30D
+
+<Item Index="12" Id="100003122" Count="2592000" Equip="1" Percent="45" Special="false"/>    ;AK-47 PBIC 2013 30D
+<Item Index="12" Id="1104003129" Count="2592000" Equip="1" Percent="45" Special="false"/>    ;Máscara PBIC 2013 30D
+
+<Item Index="13" Id="100003071" Count="2592000" Equip="1" Percent="30" Special="false"/>     ;Aug A3 PBIC 2012 30D
+<Item Index="13" Id="1104003107" Count="2592000" Equip="1" Percent="30" Special="false"/>     ;Máscara PBIC 2012 30D
+
+<Item Index="14" Id="400006080" Count="2592000" Equip="1" Percent="30" Special="false"/>     ;Kriss PBIC 2012 30D
+<Item Index="14" Id="1104003107" Count="2592000" Equip="1" Percent="30" Special="false"/>     ;Máscara PBIC 2012 30D
+</List>

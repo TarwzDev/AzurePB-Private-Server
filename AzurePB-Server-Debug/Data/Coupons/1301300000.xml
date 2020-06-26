@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="20"> ;Caixa Dolphin
+<Item Index="0" Id="100003275" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;AUG A3 Dolphin 60D
+<Item Index="1" Id="300005168" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;Cheytac Dolphin 60D
+<Item Index="2" Id="200004291" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;P90 Ext. Dolphin 60D
+<Item Index="3" Id="200004289" Count="5184000" Equip="1" Percent="30" Special="false"/>    ;Kriss S.V Dolphin 60D
+<Item Index="4" Id="100003276" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;SC-2010 Dolphin 60D
+<Item Index="5" Id="300005169" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;L115A1 Dolphin 60D
+<Item Index="6" Id="400006072" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;M1887 Dolphin 60D
+<Item Index="7" Id="100003275" Count="2592000" Equip="1" Percent="45" Special="false"/>    ;AUG A3 Dolphin 30D
+<Item Index="8" Id="300005168" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;Cheytac Dolphin 30D
+<Item Index="9" Id="200004291" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;P90 Ext. Dolphin 30D
+<Item Index="10" Id="200004289" Count="2592000" Equip="1" Percent="45" Special="false"/>    ;Kriss S.V Dolphin 30D
+<Item Index="11" Id="100003276" Count="2592000" Equip="1" Percent="45" Special="false"/>   ;SC-2010 Dolphin 30D
+<Item Index="12" Id="300005169" Count="2592000" Equip="1" Percent="45" Special="false"/>    ;L115A1 Dolphin 30D
+<Item Index="13" Id="400006072" Count="2592000" Equip="1" Percent="45" Special="false"/>    ;M1887 Dolphin 30D
+<Item Index="14" Id="100003275" Count="604800" Equip="1" Percent="75" Special="false"/>     ;AUG A3 Dolphin 7D
+<Item Index="15" Id="300005168" Count="604800" Equip="1" Percent="75" Special="false"/>    ;Cheytac Dolphin 7D
+<Item Index="16" Id="200004291" Count="604800" Equip="1" Percent="75" Special="false"/>     ;P90 Ext. Dolphin 7D
+<Item Index="17" Id="200004289" Count="604800" Equip="1" Percent="75" Special="false"/>     ;Kriss S.V Dolphin 7D
+<Item Index="18" Id="100003276" Count="604800" Equip="1" Percent="75" Special="false"/>     ;SC-2010 Dolphin 7D
+<Item Index="19" Id="300005169" Count="604800" Equip="1" Percent="75" Special="false"/>    ;L115A1 Dolphin 7D
+<Item Index="20" Id="400006072" Count="604800" Equip="1" Percent="75" Special="false"/>     ;M1887 Dolphin 7D
+<Item Index="21" Id="100003275" Count="259200" Equip="1" Percent="100" Special="false"/>    ;AUG A3 Dolphin 3D
+<Item Index="22" Id="300005168" Count="259200" Equip="1" Percent="100" Special="false"/>     ;Cheytac Dolphin 3D
+<Item Index="23" Id="200004291" Count="259200" Equip="1" Percent="100" Special="false"/>     ;P90 Ext. Dolphin 3D
+<Item Index="24" Id="200004289" Count="259200" Equip="1" Percent="100" Special="false"/>     ;Kriss S.V Dolphin 3D
+<Item Index="25" Id="100003276" Count="259200" Equip="1" Percent="100" Special="false"/>    ;SC-2010 Dolphin 3D
+<Item Index="26" Id="300005169" Count="259200" Equip="1" Percent="100" Special="false"/>     ;L115A1 Dolphin 3D
+<Item Index="27" Id="400006072" Count="259200" Equip="1" Percent="100" Special="false"/>     ;M1887 Dolphin 3D
+<Item Index="28" Id="702001140" Count="15552000" Equip="1" Percent="30" Special="true"/>    ;Mini Axe Poison 180D
+</List>

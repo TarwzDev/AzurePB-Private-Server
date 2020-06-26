@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="20"> ;Caixa Cupido
+<Item Index="0" Id="100003250" Count="5184000" Equip="1" Percent="30" Special="false"/> ;AUG A3 Cupido 60d
+<Item Index="1" Id="100003250" Count="2592000" Equip="1" Percent="45" Special="false"/> ;AUG A3 Cupido 30d
+<Item Index="2" Id="100003250" Count="604800" Equip="1" Percent="70" Special="false"/> ;AUG A3 Cupido 7d
+<Item Index="3" Id="100003250" Count="259200" Equip="1" Percent="100" Special="false"/> ;AUG A3 Cupido 3d
+<Item Index="4" Id="300005147" Count="5184000" Equip="1" Percent="30" Special="false"/> ;Cheytac M200 Cupido 60d
+<Item Index="5" Id="300005147" Count="2592000" Equip="1" Percent="45" Special="false"/> ;Cheytac M200 Cupido 30d
+<Item Index="6" Id="300005147" Count="604800" Equip="1" Percent="70" Special="false"/> ;Cheytac M200 Cupido 7d
+<Item Index="7" Id="300005147" Count="259200" Equip="1" Percent="100" Special="false"/> ;Cheytac M200 Cupido 3d
+<Item Index="8" Id="200004017" Count="5184000" Equip="1" Percent="30" Special="false"/> ;P90 Ext Cupido 60d
+<Item Index="9" Id="200004017" Count="2592000" Equip="1" Percent="45" Special="false"/> ;P90 Ext Cupido 30d
+<Item Index="10" Id="200004017" Count="604800" Equip="1" Percent="70" Special="false"/> ;P90 Ext Cupido 7d
+<Item Index="11" Id="200004017" Count="259200" Equip="1" Percent="100" Special="false"/> ;P90 Ext Cupido 3d
+<Item Index="12" Id="400006065" Count="5184000" Equip="1" Percent="30" Special="false"/> ;M1887 Cupido 60d
+<Item Index="13" Id="400006065" Count="2592000" Equip="1" Percent="45" Special="false"/> ;M1887 Cupido 30d
+<Item Index="14" Id="400006065" Count="604800" Equip="1" Percent="70" Special="false"/> ;M1887 Cupido 7d
+<Item Index="15" Id="400006065" Count="259200" Equip="1" Percent="100" Special="false"/> ;M1887 Cupido 3d
+<Item Index="16" Id="200004005" Count="5184000" Equip="1" Percent="30" Special="false"/> ;Kriss S.V Cupido 60d
+<Item Index="17" Id="200004005" Count="2592000" Equip="1" Percent="45" Special="false"/> ;Kriss S.V Cupido 30d
+<Item Index="18" Id="200004005" Count="604800" Equip="1" Percent="70" Special="false"/> ;Kriss S.V Cupido 7d
+<Item Index="19" Id="200004005" Count="259200" Equip="1" Percent="100" Special="false"/> ;Kriss S.V Cupido 3d
+<Item Index="20" Id="1103003018" Count="15552000" Equip="1" Percent="30" Special="true"/> ;Boina Vera Cruz 180d
+</List>

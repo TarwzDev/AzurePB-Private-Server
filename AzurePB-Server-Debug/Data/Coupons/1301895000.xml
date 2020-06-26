@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="20"> ;Caixa Monkey
+<Item Index="0" Id="100003243" Count="7776000" Equip="1" Percent="30" Special="false"/>     ;AUG A3 Monkey 90D
+<Item Index="1" Id="300005140" Count="7776000" Equip="1" Percent="30" Special="false"/>     ;Cheytac M200 Monkey 90D
+<Item Index="2" Id="200004253" Count="7776000" Equip="1" Percent="30" Special="false"/>     ;Kriss S.V. Monkey 90D
+<Item Index="3" Id="100003243" Count="2592000" Equip="1" Percent="45" Special="false"/>    ;AUG A3 Monkey 30D
+<Item Index="3" Id="1300017030" Count="1" Equip="1" Percent="45" Special="false"/>    ;Receber Drop 30D
+<Item Index="4" Id="300005140" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;Cheytac M200 Monkey 30D
+<Item Index="4" Id="1300031030" Count="1" Equip="1" Percent="45" Special="false"/>     ;Bala de Ferro 30D
+<Item Index="5" Id="200004253" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;Kriss S.V. Monkey 30D
+<Item Index="5" Id="1300036030" Count="1" Equip="1" Percent="45" Special="false"/>     ;Munição Hollow Point Fortificada 30D
+<Item Index="6" Id="100003243" Count="604800" Equip="1" Percent="60" Special="false"/>     ;AUG A3 Monkey 7D
+<Item Index="6" Id="1300017007" Count="1" Equip="1" Percent="60" Special="false"/>     ;Receber Drop 7D
+<Item Index="7" Id="300005140" Count="604800" Equip="1" Percent="60" Special="false"/>    ;Cheytac M200 Monkey 7D
+<Item Index="7" Id="1300031003" Count="1" Equip="1" Percent="60" Special="false"/>    ;Bala de Ferro 3D
+<Item Index="8" Id="200004253" Count="604800" Equip="1" Percent="60" Special="false"/>     ;Kriss S.V. Monkey 7D
+<Item Index="8" Id="1300036007" Count="1" Equip="1" Percent="60" Special="false"/>     ;Munição Hollow Point Fortificada 7D
+<Item Index="9" Id="100003243" Count="259200" Equip="1" Percent="85" Special="false"/>     ;AUG A3 Monkey 3D
+<Item Index="9" Id="1300017003" Count="1" Equip="1" Percent="85" Special="false"/>     ;Receber Drop 3D
+<Item Index="10" Id="300005140" Count="259200" Equip="1" Percent="85" Special="false"/>    ;Cheytac M200 Monkey 3D
+<Item Index="10" Id="1300031003" Count="1" Equip="1" Percent="85" Special="false"/>    ;Bala de Ferro 3D
+<Item Index="11" Id="200004253" Count="259200" Equip="1" Percent="85" Special="false"/>   ;Kriss S.V. Monkey 3D
+<Item Index="11" Id="1300036003" Count="1" Equip="1" Percent="85" Special="false"/>   ;Munição Hollow Point Fortificada 3D
+<Item Index="12" Id="100003243" Count="86400" Equip="1" Percent="85" Special="false"/>    ;AUG A3 Monkey 1D
+<Item Index="12" Id="1300017003" Count="1" Equip="1" Percent="85" Special="false"/>    ;Receber Drop 3D
+<Item Index="13" Id="300005140" Count="86400" Equip="1" Percent="85" Special="false"/>    ;Cheytac M200 Monkey 1D
+<Item Index="13" Id="1300031003" Count="1" Equip="1" Percent="85" Special="false"/>    ;Bala de Ferro 3D
+<Item Index="14" Id="200004253" Count="86400" Equip="1" Percent="85" Special="false"/>     ;Kriss S.V. Monkey 1D
+<Item Index="14" Id="1300036003" Count="1" Equip="1" Percent="85" Special="false"/>     ;Munição Hollow Point Fortificada 3D
+<Item Index="15" Id="100003243" Count="86400" Equip="1" Percent="100" Special="false"/>    ;AUG A3 Monkey 1D
+<Item Index="15" Id="1300017001" Count="1" Equip="1" Percent="100" Special="false"/>    ;Receber Drop 1D
+<Item Index="16" Id="300005140" Count="86400" Equip="1" Percent="100" Special="false"/>     ;Cheytac M200 Monkey 1D
+<Item Index="16" Id="1300031001" Count="1" Equip="1" Percent="100" Special="false"/>     ;Bala de Ferro 1D
+<Item Index="17" Id="200004253" Count="86400" Equip="1" Percent="100" Special="false"/>     ;Kriss S.V. Monkey 1D
+<Item Index="17" Id="1300036001" Count="1" Equip="1" Percent="100" Special="false"/>     ;Munição Hollow Point Fortificada 1D
+<Item Index="18" Id="1105003016" Count="86400" Equip="1" Percent="100" Special="false"/>     ;Mask Monkey 1D
+<Item Index="18" Id="1300017001" Count="1" Equip="1" Percent="100" Special="false"/>     ;Receber Drop 1D
+<Item Index="19" Id="1105003016" Count="86400" Equip="1" Percent="100" Special="false"/>     ;Mask Monkey 1D
+<Item Index="19" Id="1300031001" Count="1" Equip="1" Percent="100" Special="false"/>     ;Bala de Ferro 1D
+<Item Index="20" Id="1105003016" Count="86400" Equip="1" Percent="100" Special="false"/>     ;Mask Monkey 1D
+<Item Index="20" Id="1300036001" Count="1" Equip="1" Percent="100" Special="false"/>     ;Munição Hollow Point Fortificada 1D
+</List>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="20"> ;Caixa Blue Diamond
+<Item Index="0" Id="100003277" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;AUG A3 Blue Diamond 60D
+<Item Index="1" Id="300005170" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;Cheytac M200 Blue Diamond 60D
+<Item Index="2" Id="300005171" Count="5184000" Equip="1" Percent="30" Special="false"/>      ;Tactilite T2 Blue Diamond 60D
+<Item Index="3" Id="200004292" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;OA-93 Blue Diamond 60D
+<Item Index="4" Id="400006073" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;SPAS-15 Blue Diamond 60D
+<Item Index="5" Id="100003277" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;AUG A3 Blue Diamond 30D
+<Item Index="6" Id="300005170" Count="2592000" Equip="1" Percent="45" Special="false"/>      ;Cheytac M200 Blue Diamond 30D
+<Item Index="7" Id="300005171" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;Tactilite T2 Blue Diamond 30D
+<Item Index="8" Id="200004292" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;OA-93 Blue Diamond 30D
+<Item Index="9" Id="400006073" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;SPAS-15 Blue Diamond 30D
+<Item Index="10" Id="100003277" Count="604800" Equip="1" Percent="75" Special="false"/>     ;AUG A3 Blue Diamond 7D
+<Item Index="11" Id="300005170" Count="604800" Equip="1" Percent="75" Special="false"/>    ;Cheytac M200 Blue Diamond 7D
+<Item Index="12" Id="300005171" Count="604800" Equip="1" Percent="75" Special="false"/>    ;Tactilite T2 Blue Diamond 7D
+<Item Index="13" Id="200004292" Count="604800" Equip="1" Percent="75" Special="false"/>    ;OA-93 Blue Diamond 7D
+<Item Index="14" Id="400006073" Count="604800" Equip="1" Percent="75" Special="false"/>     ;SPAS-15 Blue Diamond 7D
+<Item Index="15" Id="100003277" Count="259200" Equip="1" Percent="100" Special="false"/>    ;AUG A3 Blue Diamond 3D
+<Item Index="16" Id="300005170" Count="259200" Equip="1" Percent="100" Special="false"/>    ;Cheytac M200 Blue Diamond 3D
+<Item Index="17" Id="300005171" Count="259200" Equip="1" Percent="100" Special="false"/>    ;Tactilite T2 Blue Diamond 3D
+<Item Index="18" Id="200004292" Count="259200" Equip="1" Percent="100" Special="false"/>     ;OA-93 Blue Diamond 3D
+<Item Index="19" Id="400006073" Count="259200" Equip="1" Percent="100" Special="false"/>    ;SPAS-15 Blue Diamond 3D
+<Item Index="20" Id="702001143" Count="15552000" Equip="1" Percent="30" Special="true"/>   ;Amok Kukri Poison 180D
+</List>

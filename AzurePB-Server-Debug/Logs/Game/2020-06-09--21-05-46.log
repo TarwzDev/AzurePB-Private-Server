@@ -1,0 +1,15 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                                POINT BLANK GAME                               
+                                                                               
+                                                                               
+_______________________________ 13.12.2019 02:14 _______________________________
+21:05:47 [Info] Text Encode: Western European (Windows)
+21:05:47 [Info] Mode: Public
+21:05:48 [Debug] Active Server. (09.06.20 21:05:48)
+21:56:27 [Warning] Shop was restarted: Azure
+21:56:42 [Warning] PROTOCOL_BASE_CHATTING_REQ: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PointBlank.Game.Data.Chat.ChangePlayerRank.SetPlayerRank(String str)
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BASE_CHATTING_REQ.ServerCommands(Account player, Room room)
+21:56:52 [Warning] Shop was restarted: Azure

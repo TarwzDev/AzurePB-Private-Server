@@ -1,0 +1,51 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                                POINT BLANK GAME                               
+                                                                               
+                                                                               
+_______________________________ 08.06.2020 18:23 _______________________________
+22:07:59 [Info] Text Encode: Western European (Windows)
+22:07:59 [Info] Mode: Public
+22:07:59 [Debug] Active Server. (09.06.20 22:07:59)
+22:40:39 [Error] Opcode not found: 6657
+16:01:25 [Error] Player: 'YaG0D' (Id: 13) kicked due to high latency. (272/200ms)
+17:18:58 [Warning] PROTOCOL_BASE_CHATTING_REQ: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PointBlank.Game.Data.Chat.ChangeRoomInfos.ChangeTime(String str, Room room)
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BASE_CHATTING_REQ.ServerCommands(Account player, Room room)
+17:19:04 [Warning] PROTOCOL_BASE_CHATTING_REQ: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PointBlank.Game.Data.Chat.ChangeRoomInfos.ChangeTime(String str, Room room)
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BASE_CHATTING_REQ.ServerCommands(Account player, Room room)
+17:19:09 [Warning] PROTOCOL_BASE_CHATTING_REQ: System.OverflowException: Value was either too large or too small for an Int32.
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PointBlank.Game.Data.Chat.ChangeRoomInfos.ChangeTime(String str, Room room)
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BASE_CHATTING_REQ.ServerCommands(Account player, Room room)
+17:19:13 [Warning] PROTOCOL_BASE_CHATTING_REQ: System.OverflowException: Value was either too large or too small for an Int32.
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PointBlank.Game.Data.Chat.ChangeRoomInfos.ChangeTime(String str, Room room)
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BASE_CHATTING_REQ.ServerCommands(Account player, Room room)
+17:19:16 [Warning] PROTOCOL_BASE_CHATTING_REQ: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PointBlank.Game.Data.Chat.ChangeRoomInfos.ChangeTime(String str, Room room)
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BASE_CHATTING_REQ.ServerCommands(Account player, Room room)
+17:19:20 [Warning] PROTOCOL_BASE_CHATTING_REQ: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PointBlank.Game.Data.Chat.ChangeRoomInfos.ChangeTime(String str, Room room)
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BASE_CHATTING_REQ.ServerCommands(Account player, Room room)
+17:19:43 [Warning] PROTOCOL_BASE_CHATTING_REQ: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PointBlank.Game.Data.Chat.ChangeRoomInfos.ChangeTime(String str, Room room)
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BASE_CHATTING_REQ.ServerCommands(Account player, Room room)
+17:20:47 [Error] GetCompleteBytes problem at: Room.BaseSpawnReadyPlayers-2
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PointBlank.Game.Data.Model.Room.getInBattleTimeLeft()
+   at PointBlank.Game.Network.ServerPacket.PROTOCOL_BATTLE_MISSION_ROUND_START_ACK.write()
+   at PointBlank.Core.Network.SendPacket.GetCompleteBytes(String name)
+17:21:14 [Warning] PROTOCOL_BASE_CHATTING_REQ: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PointBlank.Game.Data.Chat.ChangeRoomInfos.ChangeTime(String str, Room room)
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BASE_CHATTING_REQ.ServerCommands(Account player, Room room)
+17:21:18 [Warning] PROTOCOL_BASE_CHATTING_REQ: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PointBlank.Game.Data.Chat.ChangeRoomInfos.ChangeTime(String str, Room room)
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BASE_CHATTING_REQ.ServerCommands(Account player, Room room)
+17:43:00 [Error] Player: 'GM Admin 01' (Id: 6) kicked due to high latency. (5000/200ms)
+20:54:52 [Error] Opcode not found: 6657
+20:54:55 [Error] Opcode not found: 6657
+20:58:45 [Error] Opcode not found: 6657
+21:01:38 [Error] Opcode not found: 6657

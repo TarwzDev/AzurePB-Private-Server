@@ -1,0 +1,22 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                               POINT BLANK BATTLE                              
+                                                                               
+                                                                               
+_______________________________ 08.06.2020 00:27 _______________________________
+21:29:08 [Info] Server active at 54.39.81.71:41009
+21:29:08 [Info] Synchronize infos to server: True
+21:29:09 [Info] Drops Limit: 25
+21:29:09 [Info] Ammo Limit: False
+21:29:09 [Info] Duration C4: (5.5s/6.5s)
+21:29:09 [Info] Loaded: 60 maps
+21:29:09 [Info] Loaded: 115 charas information
+21:29:09 [Info] Loaded: 20 melee exceptions
+21:29:13 [Warning] System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.UdpClient..ctor(Int32 port, AddressFamily family)
+   at System.Net.Sockets.UdpClient..ctor(Int32 port)
+   at PointBlank.Battle.Data.Sync.BattleSync.Start()
+21:29:13 [Debug] Active Server. (09.06.20 21:29:13)

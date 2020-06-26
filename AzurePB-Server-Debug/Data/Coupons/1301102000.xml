@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="3"> ;Kit suporte Famas G2 3d
+<Item Index="0" Id="100003049" Count="259200" Equip="1" Percent="100" Special="false"/>     ;Famas G2 3D
+<Item Index="1" Id="100003050" Count="259200" Equip="1" Percent="85" Special="false"/>     ;Famas G2 Commando 3D
+<Item Index="2" Id="100003051" Count="259200" Equip="1" Percent="75" Special="false"/>     ;Famas G2 Sniper 3D
+<Item Index="3" Id="100003052" Count="259200" Equip="1" Percent="55" Special="false"/>     ;Famas G2 M203 3D
+</List>

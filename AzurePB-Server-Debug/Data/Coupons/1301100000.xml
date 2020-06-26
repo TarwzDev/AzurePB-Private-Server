@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="6"> ;Kit suporte Uzi Dupla 30d
+<Item Index="0" Id="200018004" Count="2592000" Equip="1" Percent="100" Special="false"/>     ;Uzi Dupla 30D
+<Item Index="1" Id="200018005" Count="2592000" Equip="1" Percent="95" Special="false"/>     ;Mini Uzi Dupla 30D
+<Item Index="2" Id="200018006" Count="2592000" Equip="1" Percent="85" Special="false"/>     ;Micro Uzi Dupla 30D
+<Item Index="3" Id="200018007" Count="2592000" Equip="1" Percent="75" Special="false"/>     ;Uzi Dupla Silenciada 30D
+<Item Index="4" Id="200018008" Count="2592000" Equip="1" Percent="65" Special="false"/>     ;Mini Uzi Dupla Silenciada 30D
+<Item Index="5" Id="200018009" Count="2592000" Equip="1" Percent="55" Special="false"/>     ;Micro Uzi Dupla Silenciada 30D
+<Item Index="6" Id="200018011" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;Micro Uzi Dupla Silenciada Sl 30D
+</List>

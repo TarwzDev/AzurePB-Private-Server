@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="20"> ;Caixa Alien
+<Item Index="0" Id="100003279" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;AUG A3 Alien 60D
+<Item Index="1" Id="300005173" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;Cheytac M200 Alien 60D
+<Item Index="2" Id="200004297" Count="5184000" Equip="1" Percent="30" Special="false"/>      ;P90 Ext Alien 60D
+<Item Index="3" Id="300005174" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;L115A1 Alien 60D
+<Item Index="4" Id="200004298" Count="5184000" Equip="1" Percent="30" Special="false"/>     ;Kriss S.V Alien 60D
+<Item Index="5" Id="100003279" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;AUG A3 Alien 30D
+<Item Index="6" Id="300005173" Count="2592000" Equip="1" Percent="45" Special="false"/>      ;Cheytac M200 Alien 30D
+<Item Index="7" Id="200004297" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;P90 Ext Alien 30D
+<Item Index="8" Id="300005174" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;L115A1 Alien 30D
+<Item Index="9" Id="200004298" Count="2592000" Equip="1" Percent="45" Special="false"/>     ;Kriss S.V Alien 30D
+<Item Index="10" Id="100003279" Count="604800" Equip="1" Percent="75" Special="false"/>     ;AUG A3 Alien 7D
+<Item Index="11" Id="300005173" Count="604800" Equip="1" Percent="75" Special="false"/>    ;Cheytac M200 Alien 7D
+<Item Index="12" Id="200004297" Count="604800" Equip="1" Percent="75" Special="false"/>    ;P90 Ext Alien 7D
+<Item Index="13" Id="300005174" Count="604800" Equip="1" Percent="75" Special="false"/>    ;L115A1 Alien 7D
+<Item Index="14" Id="200004298" Count="604800" Equip="1" Percent="75" Special="false"/>     ;Kriss S.V Alien 7D
+<Item Index="15" Id="100003279" Count="259200" Equip="1" Percent="100" Special="false"/>    ;AUG A3 Alien 3D
+<Item Index="16" Id="300005173" Count="259200" Equip="1" Percent="100" Special="false"/>    ;Cheytac M200 Alien 3D
+<Item Index="17" Id="200004297" Count="259200" Equip="1" Percent="100" Special="false"/>    ;P90 Ext Alien 3D
+<Item Index="18" Id="300005174" Count="259200" Equip="1" Percent="100" Special="false"/>     ;L115A1 Alien 3D
+<Item Index="19" Id="200004298" Count="259200" Equip="1" Percent="100" Special="false"/>    ;Kriss S.V Alien 3D
+<Item Index="20" Id="702001129" Count="15552000" Equip="1" Percent="30" Special="true"/>   ;Keris Beast 180D
+</List>

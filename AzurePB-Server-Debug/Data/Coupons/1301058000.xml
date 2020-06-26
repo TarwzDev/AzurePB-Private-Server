@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="17"> ;Mega Bomb
+<Item Index="0" Id="0" Count="1000" Equip="21" Percent="100" Special="false"/> ;1000 Gold de presente
+<Item Index="1" Id="0" Count="3000" Equip="21" Percent="70" Special="false"/> ;3000 Gold de presente
+<Item Index="2" Id="0" Count="5000" Equip="21" Percent="60" Special="false"/> ;5000 Gold de presente
+<Item Index="3" Id="0" Count="7000" Equip="21" Percent="50" Special="false"/> ;7000 Gold de presente
+<Item Index="4" Id="0" Count="10000" Equip="21" Percent="40" Special="false"/> ;10000 Gold de presente
+<Item Index="5" Id="1300014001" Count="1" Equip="1" Percent="70" Special="false"/> ;Mira colorida 1d
+<Item Index="6" Id="1102003002" Count="500" Equip="1" Percent="70" Special="false"/> ;Capacete Comum 1 dia
+<Item Index="7" Id="1102003007" Count="86400" Equip="1" Percent="70" Special="false"/> ;Capacete Fortificado 1 dia
+<Item Index="8" Id="904007003" Count="100" Equip="1" Percent="70" Special="false"/> ;FlashBang 100u/1d
+<Item Index="9" Id="1300002001" Count="1" Equip="1" Percent="70" Special="false"/> ;Experiência 30% 1 dia
+<Item Index="10" Id="1300004001" Count="1" Equip="1" Percent="70" Special="false"/> ;Gold 30% 1 dia
+<Item Index="11" Id="1300002001" Count="1" Equip="1" Percent="70" Special="false"/> ;(Exp)Experiência 30% 1 dia\nGold 30% 1 dia
+<Item Index="11" Id="1300004001" Count="1" Equip="1" Percent="70" Special="false"/> ;(Gold)Experiência 30% 1 dia\nGold 30% 1 dia
+<Item Index="12" Id="200004014" Count="86400" Equip="1" Percent="70" Special="false"/> ;MP5K Silver 1 dia
+<Item Index="13" Id="100003019" Count="86400" Equip="1" Percent="70" Special="false"/> ;SG550 Silver 1 dia
+<Item Index="14" Id="300005008" Count="86400" Equip="1" Percent="70" Special="false"/> ;SSG 69 Silver 1 dia
+<Item Index="15" Id="100003021" Count="86400" Equip="1" Percent="70" Special="false"/> ;M4A1 Silver 1 dia
+<Item Index="16" Id="300005009" Count="86400" Equip="1" Percent="70" Special="false"/> ;PSG-1 Silver 1 dia
+<Item Index="17" Id="0" Count="100000" Equip="21" Percent="30" Special="false"/> ;100000 Gold de presente
+</List>

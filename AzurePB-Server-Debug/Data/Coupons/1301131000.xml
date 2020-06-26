@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="13"> ;Facebook Box
+<Item Index="0" Id="0" Count="1" Equip="1" Percent="3" Special="false"/> ;Respawn rápido 50% 1D
+<Item Index="1" Id="0" Count="1" Equip="1" Percent="39" Special="false"/> ;Mega HP 10% 1D
+<Item Index="2" Id="0" Count="1" Equip="1" Percent="6" Special="false"/> ;Quick Swap 1D
+<Item Index="3" Id="0" Count="1" Equip="1" Percent="349" Special="false"/> ;AP Rounds 1D
+<Item Index="4" Id="0" Count="1" Equip="1" Percent="600" Special="false"/> ;Bullet Proof Vest Plus 10% 1D
+<Item Index="5" Id="0" Count="1" Equip="1" Percent="600" Special="false"/> ;Extended Magazines 1D
+<Item Index="6" Id="0" Count="1" Equip="1" Percent="600" Special="false"/> ;C4 Tool Kit 1D
+<Item Index="7" Id="0" Count="1" Equip="1" Percent="600" Special="false"/> ;Speed Load 1D
+<Item Index="8" Id="0" Count="1" Equip="1" Percent="600" Special="false"/> ;Extraction 1D
+<Item Index="9" Id="0" Count="1" Equip="1" Percent="600" Special="false"/> ;Crosshair Color 1D
+<Item Index="10" Id="0" Count="15" Equip="1" Percent="1500" Special="false"/> ;FlashBang 15U
+<Item Index="11" Id="0" Count="5000" Equip="21" Percent="4500" Special="false"/> ;5,000 Credits
+<Item Index="12" Id="0" Count="100000" Equip="21" Percent="1" Special="false"/> ;100,000 Credits
+<Item Index="13" Id="0" Count="50000" Equip="21" Percent="2" Special="false"/> ;50,000 Credits
+</List>

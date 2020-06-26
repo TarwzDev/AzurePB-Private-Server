@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="11"> Sniper 7D Random Box
+<Item Index="0" Id="300005256" Count="604800" Equip="1" Percent="10" Special="false"/> ;Cheytac M200 Fear 7D
+<Item Index="1" Id="300005121" Count="604800" Equip="1" Percent="20" Special="false"/> ;Cheytac M200 G. 7D
+<Item Index="2" Id="300005055" Count="604800" Equip="1" Percent="32" Special="false"/> ;Cheytac M200 GSL 7D
+<Item Index="3" Id="300005086" Count="604800" Equip="1" Percent="11" Special="false"/> ;Cheytac M200 W.O.E 7D
+<Item Index="4" Id="300005063" Count="604800" Equip="1" Percent="7" Special="false"/> ;Cheytac M200 Turkey 7D
+<Item Index="5" Id="300005123" Count="604800" Equip="1" Percent="10" Special="false"/> ;Tactilite T2 7D
+<Item Index="6" Id="300005132" Count="604800" Equip="1" Percent="20" Special="false"/> ;Tactilite T2 Gold 7D
+<Item Index="7" Id="300005092" Count="604800" Equip="1" Percent="32" Special="false"/> ;L115A1 Toy 7D
+<Item Index="8" Id="300005033" Count="604800" Equip="1" Percent="11" Special="false"/> ;L115A1 ES 7D
+<Item Index="9" Id="300005031" Count="604800" Equip="1" Percent="10" Special="false"/> ;Winchester M70 7D
+<Item Index="10" Id="300005062" Count="604800" Equip="1" Percent="20" Special="false"/> ;Rangemaster 7.62 STBY 7D
+<Item Index="11" Id="300005032" Count="604800" Equip="1" Percent="32" Special="false"/> ;Barrett M82A1 7D
+</List>

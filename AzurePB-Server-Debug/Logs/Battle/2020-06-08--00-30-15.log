@@ -1,0 +1,34 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                               POINT BLANK BATTLE                              
+                                                                               
+                                                                               
+_______________________________ 08.06.2020 00:27 _______________________________
+00:30:15 [Info] Server active at 54.39.81.71:41009
+00:30:15 [Info] Synchronize infos to server: True
+00:30:15 [Info] Drops Limit: 25
+00:30:15 [Info] Ammo Limit: True
+00:30:15 [Info] Duration C4: (5.5s/6.5s)
+00:30:15 [Info] Loaded: 60 maps
+00:30:15 [Info] Loaded: 115 charas information
+00:30:16 [Info] Loaded: 20 melee exceptions
+00:30:17 [Error] System.IO.FileLoadException: Could not load file or assembly 'System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ---> System.IO.FileLoadException: Could not load file or assembly 'System.Runtime.CompilerServices.Unsafe, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'System.Runtime.CompilerServices.Unsafe, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+   at System.Threading.Tasks.ValueTask`1.get_IsCompleted()
+   at Npgsql.NpgsqlConnection.<>c__DisplayClass32_0.<<Open>g__OpenLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlConnection.Open()
+   at PointBlank.Battle.Data.Xml.ServersXml.Load() in C:\Users\Administrator\Desktop\PointBlank Evolution\PointBlank.Battle\Data\Xml\ServersXml.cs:line 37
+
+
+00:30:17 [Debug] Active Server. (08.06.20 00:30:17)

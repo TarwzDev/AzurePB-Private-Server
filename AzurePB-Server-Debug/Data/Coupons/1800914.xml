@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="16"> ; Demonic Gacha
+<Item Index="0" Id="103274" Count="5184000" Equip="1" Percent="30" Special="false"/> ;AUG A3 Demonic 60d
+<Item Index="1" Id="103274" Count="2592000" Equip="1" Percent="45" Special="false"/> ;AUG A3 Demonic 30d
+<Item Index="2" Id="103274" Count="604800" Equip="1" Percent="70" Special="false"/> ;AUG A3 Demonic 7d
+<Item Index="3" Id="103274" Count="259200" Equip="1" Percent="100" Special="false"/> ;AUG A3 Demonic 3d
+<Item Index="4" Id="105167" Count="5184000" Equip="1" Percent="30" Special="false"/> ;Cheytac M200 Demonic 60d
+<Item Index="5" Id="105167" Count="2592000" Equip="1" Percent="45" Special="false"/> ;Cheytac M200 Demonic 30d
+<Item Index="6" Id="105167" Count="604800" Equip="1" Percent="70" Special="false"/> ;Cheytac M200 Demonic 7d
+<Item Index="7" Id="105167" Count="259200" Equip="1" Percent="100" Special="false"/> ;Cheytac M200 Demonic 3d
+<Item Index="8" Id="104288" Count="5184000" Equip="1" Percent="30" Special="false"/> ;P90 Ext Demonic 60d
+<Item Index="9" Id="104288" Count="2592000" Equip="1" Percent="45" Special="false"/> ;P90 Ext Demonic 30d
+<Item Index="10" Id="104288" Count="604800" Equip="1" Percent="70" Special="false"/> ;P90 Ext Demonic 7d
+<Item Index="11" Id="104288" Count="259200" Equip="1" Percent="100" Special="false"/> ;P90 Ext Demonic 3d
+<Item Index="12" Id="104286" Count="5184000" Equip="1" Percent="30" Special="false"/> ;Kriss S.V Demonic 60d
+<Item Index="13" Id="104286" Count="2592000" Equip="1" Percent="45" Special="false"/> ;Kriss S.V Demonic 30d
+<Item Index="14" Id="104286" Count="604800" Equip="1" Percent="70" Special="false"/> ;Kriss S.V Demonic 7d
+<Item Index="15" Id="104286" Count="259200" Equip="1" Percent="100" Special="false"/> ;Kriss S.V Demonic 3d
+<Item Index="16" Id="301129" Count="15552000" Equip="1" Percent="30" Special="true"/> ;Keris Beast 180d
+</List>

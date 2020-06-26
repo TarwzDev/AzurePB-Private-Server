@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="19"> ;Caixa PBWC2016
+<Item Index="0" Id="100003266" Count="5184000" Equip="1" Percent="20" Special="false"/> ;AUG A3 PBWC2016 60D
+<Item Index="0" Id="803007056" Count="5184000" Equip="1" Percent="20" Special="false"/> ;C5 PBWC2016 60D
+<Item Index="1" Id="100003266" Count="2592000" Equip="1" Percent="35" Special="false"/> ;AUG A3 PBWC2016 30D
+<Item Index="1" Id="803007056" Count="2592000" Equip="1" Percent="35" Special="false"/> ;C5 PBWC2016 30D
+<Item Index="2" Id="100003266" Count="604800" Equip="1" Percent="55" Special="false"/> ;AUG A3 PBWC2016 7D
+<Item Index="2" Id="803007056" Count="604800" Equip="1" Percent="55" Special="false"/> ;C5 PBWC2016 7D
+<Item Index="3" Id="100003266" Count="259200" Equip="1" Percent="100" Special="false"/> ;AUG A3 PBWC2016 3D
+<Item Index="3" Id="803007056" Count="259200" Equip="1" Percent="100" Special="false"/> ;C5 PBWC2016 3D
+
+<Item Index="4" Id="300005163" Count="5184000" Equip="1" Percent="20" Special="false"/> ;Cheytac M200 PBWC2016 60D
+<Item Index="4" Id="601002087" Count="5184000" Equip="1" Percent="20" Special="false"/> ;C. Phyton PBWC2016 60D
+<Item Index="5" Id="300005163" Count="2592000" Equip="1" Percent="35" Special="false"/> ;Cheytac M200 PBWC2016 30D
+<Item Index="5" Id="601002087" Count="2592000" Equip="1" Percent="35" Special="false"/> ;C. Phyton PBWC2016 30D
+<Item Index="6" Id="300005163" Count="604800" Equip="1" Percent="55" Special="false"/> ;Cheytac M200 PBWC2016 7D
+<Item Index="6" Id="601002087" Count="604800" Equip="1" Percent="55" Special="false"/> ;C. Phyton PBWC2016 7D
+<Item Index="7" Id="300005163" Count="259200" Equip="1" Percent="100" Special="false"/> ;Cheytac M200 PBWC2016 3D
+<Item Index="7" Id="601002087" Count="259200" Equip="1" Percent="100" Special="false"/> ;C. Phyton PBWC2016 3D
+
+<Item Index="8" Id="200004273" Count="5184000" Equip="1" Percent="20" Special="false"/> ;OA-93 PBWC2016 60D
+<Item Index="8" Id="702001137" Count="5184000" Equip="1" Percent="20" Special="false"/> ;Amok Kukri PBWC2016 60D
+<Item Index="9" Id="200004273" Count="2592000" Equip="1" Percent="35" Special="false"/> ;OA-93 PBWC2016 30D
+<Item Index="9" Id="702001137" Count="2592000" Equip="1" Percent="35" Special="false"/> ;Amok Kukri PBWC2016 30D
+<Item Index="10" Id="200004273" Count="604800" Equip="1" Percent="55" Special="false"/> ;OA-93 PBWC2016 7D
+<Item Index="10" Id="702001137" Count="604800" Equip="1" Percent="55" Special="false"/> ;Amok Kukri PBWC2016 7D
+<Item Index="11" Id="200004273" Count="259200" Equip="1" Percent="100" Special="false"/> ;OA-93 PBWC2016 3D
+<Item Index="11" Id="702001137" Count="259200" Equip="1" Percent="100" Special="false"/> ;Amok Kukri PBWC2016 3D
+
+<Item Index="12" Id="200004277" Count="5184000" Equip="1" Percent="20" Special="false"/> ;P100 PBWC2016 60D
+<Item Index="13" Id="200004277" Count="2592000" Equip="1" Percent="35" Special="false"/> ;P100 PBWC2016 30D
+<Item Index="14" Id="200004277" Count="604800" Equip="1" Percent="55" Special="false"/> ;P100 PBWC2016 7D
+<Item Index="15" Id="200004277" Count="259200" Equip="1" Percent="100" Special="false"/> ;P100 PBWC2016 3D
+<Item Index="16" Id="200004275" Count="5184000" Equip="1" Percent="20" Special="false"/> ;Kriss S.V PBWC2016 60D
+<Item Index="17" Id="200004275" Count="2592000" Equip="1" Percent="35" Special="false"/> ;Kriss S.V PBWC2016 30D
+<Item Index="18" Id="200004275" Count="604800" Equip="1" Percent="55" Special="false"/> ;Kriss S.V PBWC2016 7D
+<Item Index="19" Id="200004275" Count="259200" Equip="1" Percent="100" Special="false"/> ;Kriss S.V PBWC2016 3D
+</List>

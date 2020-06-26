@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="19"> ;Caixa Sakura
+<Item Index="0" Id="100003251" Count="5184000" Equip="1" Percent="20" Special="false"/> ;AUG A3 Sakura 60D
+<Item Index="1" Id="100003251" Count="2592000" Equip="1" Percent="35" Special="false"/> ;AUG A3 Sakura 30D
+<Item Index="2" Id="100003251" Count="604800" Equip="1" Percent="65" Special="false"/> ;AUG A3 Sakura 7D
+<Item Index="3" Id="100003251" Count="259200" Equip="1" Percent="100" Special="false"/> ;AUG A3 Sakura 3D
+<Item Index="4" Id="300005148" Count="5184000" Equip="1" Percent="20" Special="false"/> ;Cheytac M200 Sakura 60D
+<Item Index="5" Id="300005148" Count="2592000" Equip="1" Percent="35" Special="false"/> ;Cheytac M200 Sakura 30D
+<Item Index="6" Id="300005148" Count="604800" Equip="1" Percent="65" Special="false"/> ;Cheytac M200 Sakura 7D
+<Item Index="7" Id="300005148" Count="259200" Equip="1" Percent="100" Special="false"/> ;Cheytac M200 Sakura 3D
+<Item Index="8" Id="100003252" Count="5184000" Equip="1" Percent="20" Special="false"/> ;AK SOPMOD Sakura 60D
+<Item Index="9" Id="100003252" Count="2592000" Equip="1" Percent="35" Special="false"/> ;AK SOPMOD Sakura 30D
+<Item Index="10" Id="100003252" Count="604800" Equip="1" Percent="65" Special="false"/> ;AK SOPMOD Sakura 7D
+<Item Index="11" Id="100003252" Count="259200" Equip="1" Percent="100" Special="false"/> ;AK SOPMOD Sakura 3D
+<Item Index="12" Id="200004115" Count="5184000" Equip="1" Percent="20" Special="false"/> ;Kriss S.V Sakura 60D
+<Item Index="13" Id="200004115" Count="2592000" Equip="1" Percent="35" Special="false"/> ;Kriss S.V Sakura 30D
+<Item Index="14" Id="200004115" Count="604800" Equip="1" Percent="65" Special="false"/> ;Kriss S.V Sakura 7D
+<Item Index="15" Id="200004115" Count="259200" Equip="1" Percent="100" Special="false"/> ;Kriss S.V Sakura 3D
+<Item Index="16" Id="601002082" Count="5184000" Equip="1" Percent="20" Special="false"/> ;C. Python Sakura 60D
+<Item Index="17" Id="601002082" Count="2592000" Equip="1" Percent="35" Special="false"/> ;C. Python Sakura 30D
+<Item Index="18" Id="601002082" Count="604800" Equip="1" Percent="65" Special="false"/> ;C. Python Sakura 7D
+<Item Index="19" Id="601002082" Count="259200" Equip="1" Percent="100" Special="false"/> ;C. Python Sakura 3D
+</List>

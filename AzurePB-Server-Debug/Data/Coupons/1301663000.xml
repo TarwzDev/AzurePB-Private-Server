@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="27"> ;Everyday Login Box
+<Item Index="0" Id="100003063" Count="86400" Equip="1" Percent="100" Special="false"/> ;AUG A3 E-Sport 1d
+<Item Index="1" Id="200004159" Count="86400" Equip="1" Percent="70" Special="false"/> ;OA-93 1d
+<Item Index="2" Id="300005030" Count="100" Equip="1" Percent="80" Special="false"/> ;Cheytac 100u/1d
+<Item Index="3" Id="400006041" Count="86400" Equip="1" Percent="90" Special="false"/> ;M1887 Lion Hearth 1d
+<Item Index="4" Id="300005072" Count="100" Equip="1" Percent="80" Special="false"/> ;Walther WA2000 100u/1d
+<Item Index="5" Id="200004022" Count="86400" Equip="1" Percent="95" Special="false"/> ;MP7 SL 1d
+<Item Index="6" Id="400006006" Count="86400" Equip="1" Percent="95" Special="false"/> ;SPAS-15 Sl 1d
+<Item Index="7" Id="100003086" Count="86400" Equip="1" Percent="90" Special="false"/> ;AK-47 Goddess 1d
+<Item Index="8" Id="601002013" Count="86400" Equip="1" Percent="100" Special="false"/> ;R.B 454 SS2M 1d
+<Item Index="9" Id="702023007" Count="86400" Equip="1" Percent="90" Special="false"/> ;Soco Inglês Ballock 1d
+<Item Index="10" Id="1006003045" Count="86400" Equip="1" Percent="80" Special="false"/> ;Reinforced sting 1d
+<Item Index="11" Id="803007035" Count="86400" Equip="1" Percent="100" Special="false"/> ;Mina M-14 1d
+<Item Index="12" Id="1104003007" Count="86400" Equip="1" Percent="80" Special="false"/> ;Duas cores 1d
+<Item Index="13" Id="1104003008" Count="86400" Equip="1" Percent="80" Special="false"/> ;Hockey Shot 1d
+<Item Index="14" Id="1102003003" Count="86400" Equip="1" Percent="80" Special="false"/> ;Capacete avançado plus 1d
+<Item Index="15" Id="904007013" Count="86400" Equip="1" Percent="90" Special="false"/> ;Flash Bang Plus 1d
+<Item Index="16" Id="1300029001" Count="1" Equip="1" Percent="80" Special="false"/> ;Invulnerabilidade 1d
+<Item Index="17" Id="1300007001" Count="1" Equip="1" Percent="80" Special="false"/> ;30% respawn 1d
+<Item Index="18" Id="1300014001" Count="1" Equip="1" Percent="80" Special="false"/> ;Cor da mira 1d
+<Item Index="19" Id="1300037001" Count="1" Equip="1" Percent="60" Special="false"/> ;Experiência 100% 1d
+<Item Index="20" Id="1300038001" Count="1" Equip="1" Percent="60" Special="false"/> ;Bônus Gold 100% 1d
+<Item Index="21" Id="1300003001" Count="1" Equip="1" Percent="80" Special="false"/> ;Experiência 50% 1d
+<Item Index="22" Id="1300119001" Count="1" Equip="1" Percent="20" Special="false"/> ;Bônus Gold 50% 1d
+<Item Index="23" Id="0" Count="500" Equip="21" Percent="100" Special="false"/> ;Gold 500
+<Item Index="24" Id="0" Count="1000" Equip="21" Percent="90" Special="false"/> ;Gold 1,000
+<Item Index="25" Id="0" Count="2000" Equip="21" Percent="80" Special="false"/> ;Gold 2,000
+<Item Index="26" Id="0" Count="5000" Equip="21" Percent="70" Special="false"/> ;Gold 5,000
+<Item Index="27" Id="0" Count="10000" Equip="21" Percent="60" Special="false"/> ;Gold 10,000
+</List>

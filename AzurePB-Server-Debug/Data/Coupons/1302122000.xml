@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="9"> ;Premium Cheytac Box
+<Item Index="0" Id="300005191" Count="86400" Equip="1" Percent="39" Special="false"/> ;Cheytac M200 Mystic 1D
+<Item Index="1" Id="300005185" Count="86400" Equip="1" Percent="50" Special="false"/> ;Cheytac M200 Dark Steel 1D
+<Item Index="2" Id="300005108" Count="86400" Equip="1" Percent="50" Special="false"/> ;Cheytac M200 Lion 1D
+<Item Index="3" Id="300005243" Count="86400" Equip="1" Percent="75" Special="false"/> ;Cheytac M200 Twilight 1D
+<Item Index="4" Id="300005175" Count="86400" Equip="1" Percent="27" Special="false"/> ;Cheytac M200 Woody 1D
+<Item Index="5" Id="300005191" Count="604800" Equip="1" Percent="17" Special="false"/> ;Cheytac M200 Mystic 7D
+<Item Index="6" Id="300005185" Count="604800" Equip="1" Percent="41" Special="false"/> ;Cheytac M200 Dark Steel 7D
+<Item Index="7" Id="300005108" Count="604800" Equip="1" Percent="35" Special="false"/> ;Cheytac M200 Lion 7D
+<Item Index="8" Id="300005243" Count="604800" Equip="1" Percent="16" Special="false"/> ;Cheytac M200 Twilight 7D
+<Item Index="9" Id="300005175" Count="604800" Equip="1" Percent="17" Special="false"/> ;Cheytac M200 Woody 7D
+</List>

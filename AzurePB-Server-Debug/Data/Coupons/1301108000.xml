@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="21"> ;Caixa de Cheguevara
+<Item Index="0" Id="1103003009" Count="7776000" Equip="1" Percent="25" Special="false"/>     ;Boina Che-Cruz 90D
+<Item Index="1" Id="1300017090" Count="1" Equip="1" Percent="30" Special="false"/>     ;Receber drop 90D
+<Item Index="2" Id="1103003007" Count="7776000" Equip="1" Percent="25" Special="false"/>     ;Boina Che-Vermelha 90D
+<Item Index="3" Id="1103003008" Count="7776000" Equip="1" Percent="25" Special="false"/>     ;Boina Che-Amarela 90D
+<Item Index="4" Id="1103003009" Count="2592000" Equip="1" Percent="40" Special="false"/>     ;Boina Che-Cruz 30D
+<Item Index="5" Id="1300017030" Count="1" Equip="1" Percent="45" Special="false"/>     ;Receber drop 30D
+<Item Index="6" Id="1103003007" Count="2592000" Equip="1" Percent="40" Special="false"/>     ;Boina Che-Vermelha 30D
+<Item Index="7" Id="1103003008" Count="2592000" Equip="1" Percent="40" Special="false"/>     ;Boina Che-Amarela 30D
+<Item Index="8" Id="1103003009" Count="604800" Equip="1" Percent="60" Special="false"/>     ;Boina Che-Cruz 7D
+<Item Index="9" Id="1300017007" Count="1" Equip="1" Percent="65" Special="false"/>     ;Receber drop 7D
+<Item Index="10" Id="1103003007" Count="604800" Equip="1" Percent="60" Special="false"/>     ;Boina Che-Vermelha 7D
+<Item Index="11" Id="1103003008" Count="604800" Equip="1" Percent="60" Special="false"/>     ;Boina Che-Amarela 7D
+<Item Index="12" Id="1103003009" Count="259200" Equip="1" Percent="85" Special="false"/>     ;Boina Che-Cruz 3D
+<Item Index="13" Id="1300017003" Count="1" Equip="1" Percent="90" Special="false"/>     ;Receber drop 3D
+<Item Index="14" Id="1103003007" Count="259200" Equip="1" Percent="85" Special="false"/>     ;Boina Che-Vermelha 3D
+<Item Index="15" Id="1103003008" Count="259200" Equip="1" Percent="85" Special="false"/>     ;Boina Che-Amarela 3D
+<Item Index="16" Id="1300014003" Count="1" Equip="1" Percent="90" Special="false"/>     ;Mira Colorida 3D
+<Item Index="17" Id="1103003009" Count="86400" Equip="1" Percent="95" Special="false"/>     ;Boina Che-Cruz 1D
+<Item Index="18" Id="1300017001" Count="1" Equip="1" Percent="100" Special="false"/>     ;Receber drop 1D
+<Item Index="19" Id="1103003007" Count="86400" Equip="1" Percent="95" Special="false"/>     ;Boina Che-Vermelha 1D
+<Item Index="20" Id="1103003008" Count="86400" Equip="1" Percent="95" Special="false"/>     ;Boina Che-Amarela 1D
+<Item Index="21" Id="1105003004" Count="50" Equip="1" Percent="60" Special="false"/>     ;Chapéu de Cowboy 50U
+</List>

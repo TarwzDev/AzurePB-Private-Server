@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Chara Id="1" Type="1" Life="100"/>
+	<Chara Id="3" Type="1" Life="100"/>
+	<Chara Id="5" Type="1" Life="100"/>
+	<Chara Id="7" Type="1" Life="100"/>
+	<Chara Id="10" Type="1" Life="100"/>
+	<Chara Id="16" Type="1" Life="110"/>
+	<Chara Id="18" Type="1" Life="110"/>
+	<Chara Id="20" Type="1" Life="120"/>
+	<Chara Id="22" Type="1" Life="120"/>
+	<Chara Id="69" Type="1" Life="100"/>
+	<Chara Id="83" Type="1" Life="120"/>
+	<Chara Id="85" Type="1" Life="120"/>
+	<Chara Id="87" Type="1" Life="120"/>
+	<Chara Id="89" Type="1" Life="120"/>
+	<Chara Id="97" Type="1" Life="120"/>
+	<Chara Id="104" Type="1" Life="120"/>
+	<Chara Id="105" Type="1" Life="120"/>
+	<Chara Id="106" Type="1" Life="120"/>
+	<Chara Id="112" Type="1" Life="120"/>
+	<Chara Id="125" Type="1" Life="120"/>
+	<Chara Id="126" Type="1" Life="120"/>
+	<Chara Id="128" Type="1" Life="120"/>
+	<Chara Id="130" Type="1" Life="120"/>
+	<Chara Id="131" Type="1" Life="120"/>
+	<Chara Id="136" Type="1" Life="120"/>
+	<Chara Id="143" Type="1" Life="120"/>
+	<Chara Id="149" Type="1" Life="120"/>
+	<Chara Id="152" Type="1" Life="120"/>
+	<Chara Id="244" Type="1" Life="120"/>
+	<Chara Id="246" Type="1" Life="120"/>
+	<Chara Id="247" Type="1" Life="120"/>
+	<Chara Id="249" Type="1" Life="120"/>
+	<Chara Id="256" Type="1" Life="120"/>
+	<Chara Id="261" Type="1" Life="120"/>
+	<Chara Id="262" Type="1" Life="120"/>
+	<Chara Id="264" Type="1" Life="120"/>
+	<Chara Id="286" Type="1" Life="120"/>
+	<Chara Id="304" Type="1" Life="120"/>
+	<Chara Id="313" Type="1" Life="120"/>
+	<Chara Id="318" Type="1" Life="120"/>
+	<Chara Id="324" Type="1" Life="120"/>
+	<Chara Id="328" Type="1" Life="120"/>
+	<Chara Id="332" Type="1" Life="120"/>
+	<Chara Id="334" Type="1" Life="120"/>
+	<Chara Id="340" Type="1" Life="120"/>
+	<Chara Id="341" Type="1" Life="120"/>
+	<Chara Id="347" Type="1" Life="120"/>
+	<Chara Id="369" Type="1" Life="120"/>
+	<Chara Id="375" Type="1" Life="120"/>
+	<Chara Id="376" Type="1" Life="120"/>
+	<Chara Id="384" Type="1" Life="120"/>
+	<Chara Id="387" Type="1" Life="120"/>
+	<Chara Id="397" Type="1" Life="120"/>
+	
+	<Chara Id="2" Type="2" Life="100"/>
+	<Chara Id="4" Type="2" Life="100"/>
+	<Chara Id="8" Type="2" Life="100"/>
+	<Chara Id="9" Type="2" Life="100"/>
+	<Chara Id="11" Type="2" Life="100"/>
+	<Chara Id="17" Type="2" Life="110"/>
+	<Chara Id="19" Type="2" Life="110"/>
+	<Chara Id="21" Type="2" Life="120"/>
+	<Chara Id="23" Type="2" Life="120"/>
+	<Chara Id="62" Type="2" Life="120"/>
+	<Chara Id="64" Type="2" Life="120"/>
+	<Chara Id="70" Type="2" Life="100"/>
+	<Chara Id="156" Type="2" Life="120"/>
+	<Chara Id="158" Type="2" Life="120"/>
+	<Chara Id="171" Type="2" Life="120"/>
+	<Chara Id="172" Type="2" Life="120"/>
+	<Chara Id="175" Type="2" Life="120"/>
+	<Chara Id="177" Type="2" Life="120"/>
+	<Chara Id="185" Type="2" Life="120"/>
+	<Chara Id="192" Type="2" Life="120"/>
+	<Chara Id="194" Type="2" Life="120"/>
+	<Chara Id="195" Type="2" Life="120"/>
+	<Chara Id="200" Type="2" Life="120"/>
+	<Chara Id="210" Type="2" Life="120"/>
+	<Chara Id="214" Type="2" Life="120"/>
+	<Chara Id="216" Type="2" Life="120"/>
+	<Chara Id="218" Type="2" Life="120"/>
+	<Chara Id="219" Type="2" Life="120"/>
+	<Chara Id="224" Type="2" Life="120"/>
+	<Chara Id="237" Type="2" Life="120"/>
+	<Chara Id="240" Type="2" Life="120"/>
+	<Chara Id="250" Type="2" Life="120"/>
+	<Chara Id="251" Type="2" Life="120"/>
+	<Chara Id="252" Type="2" Life="120"/>
+	<Chara Id="259" Type="2" Life="120"/>
+	<Chara Id="260" Type="2" Life="120"/>
+	<Chara Id="274" Type="2" Life="120"/>
+	<Chara Id="275" Type="2" Life="120"/>
+	<Chara Id="289" Type="2" Life="120"/>
+	<Chara Id="305" Type="2" Life="120"/>
+	<Chara Id="310" Type="2" Life="120"/>
+	<Chara Id="321" Type="2" Life="120"/>
+	<Chara Id="324" Type="2" Life="120"/>
+	<Chara Id="328" Type="2" Life="120"/>
+	<Chara Id="332" Type="2" Life="120"/>
+	<Chara Id="334" Type="2" Life="120"/>
+	<Chara Id="337" Type="2" Life="120"/>
+	<Chara Id="344" Type="2" Life="120"/>
+	<Chara Id="352" Type="2" Life="120"/>
+	<Chara Id="372" Type="2" Life="120"/>
+	<Chara Id="378" Type="2" Life="120"/>
+	<Chara Id="385" Type="2" Life="120"/>
+	<Chara Id="389" Type="2" Life="120"/>
+	<Chara Id="400" Type="2" Life="120"/>
+	
+	<Chara Id="1" Type="19" Life="100"/> ;Acid
+	<Chara Id="2" Type="19" Life="450"/> ;Elite
+	<Chara Id="3" Type="19" Life="400"/> ;Raptor
+	<Chara Id="4" Type="19" Life="350"/> ;Sting
+	<Chara Id="6" Type="19" Life="500"/> ;Tank
+	<Chara Id="15" Type="19" Life="100"/> ;Acid
+	<Chara Id="18" Type="19" Life="400"/> ;Raptor
+	<Chara Id="19" Type="19" Life="350"/> ;Sting
+</List>

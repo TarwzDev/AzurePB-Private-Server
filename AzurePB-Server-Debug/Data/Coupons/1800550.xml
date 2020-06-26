@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="28"> ; Barrett Gacha
+<Item Index="0" Id="300005032" Count="2592000" Equip="1" Percent="25" Special="false"/>     ;Barret M82A1 30D
+<Item Index="1" Id="200004075" Count="2592000" Equip="1" Percent="25" Special="false"/>     ;P90 G 30D
+<Item Index="2" Id="100003064" Count="2592000" Equip="1" Percent="25" Special="false"/>     ;Famas G2 Commando G 30D
+<Item Index="3" Id="100003037" Count="2592000" Equip="1" Percent="25" Special="false"/>     ;AUG A3 G 30D
+<Item Index="4" Id="200004026" Count="2592000" Equip="1" Percent="25" Special="false"/>     ;Kriss S.V G 30D
+<Item Index="5" Id="300005032" Count="86400" Equip="1" Percent="35" Special="false"/>     ;Barret M82A1 1D
+<Item Index="6" Id="200004075" Count="86400" Equip="1" Percent="65" Special="false"/>     ;P90 G 1D
+<Item Index="7" Id="100003064" Count="86400" Equip="1" Percent="65" Special="false"/>     ;Famas G2 Commando G 1D
+<Item Index="8" Id="100003037" Count="86400" Equip="1" Percent="65" Special="false"/>     ;AUG A3 G 1D
+<Item Index="9" Id="200004026" Count="86400" Equip="1" Percent="65" Special="false"/>     ;Kriss S.V G 1D
+<Item Index="10" Id="300005024" Count="50" Equip="1" Percent="75" Special="false"/>     ;PSG-1 G. 50U
+<Item Index="11" Id="200018013" Count="86400" Equip="1" Percent="65" Special="false"/>     ;Dual Mini Uzi G 1D
+<Item Index="12" Id="100003092" Count="86400" Equip="1" Percent="65" Special="false"/>     ;AK SOPMOD R 1D
+<Item Index="13" Id="100003023" Count="86400" Equip="1" Percent="65" Special="false"/>     ;M4A1 G 1D
+<Item Index="14" Id="200004049" Count="86400" Equip="1" Percent="65" Special="false"/>    ;SS1-R5 Carbine G 1D
+<Item Index="15" Id="300005015" Count="86400" Equip="1" Percent="65" Special="false"/>    ;L115A1 G 1D
+<Item Index="16" Id="300005006" Count="50" Equip="1" Percent="75" Special="false"/>    ;Dragunov G 50U
+<Item Index="17" Id="100003061" Count="86400" Equip="1" Percent="65" Special="false"/>    ;SS2-V4 Para Sniper G 1D
+<Item Index="18" Id="601014004" Count="86400" Equip="1" Percent="65" Special="false"/>    ;Dual Desert Eagle G 1D
+<Item Index="19" Id="702001041" Count="86400" Equip="1" Percent="65" Special="false"/>    ;Espada Árabe 1D
+<Item Index="20" Id="702001023" Count="86400" Equip="1" Percent="65" Special="false"/>    ;Keris SE 1D
+<Item Index="21" Id="702001043" Count="2592000" Equip="1" Percent="25" Special="false"/>    ;Machete de Combate G 30D
+<Item Index="22" Id="702001043" Count="86400" Equip="1" Percent="65" Special="false"/>    ;Machete de Combate G 1D
+<Item Index="23" Id="1104003117" Count="86400" Equip="1" Percent="100" Special="false"/>    ;Máscara Gatotkaca G 1D
+<Item Index="24" Id="1104003125" Count="86400" Equip="1" Percent="100" Special="false"/>    ;Máscara Tarantula 1D
+<Item Index="25" Id="1104003127" Count="86400" Equip="1" Percent="100" Special="false"/>    ;Máscara Red Bulls 1D
+<Item Index="26" Id="1104003113" Count="86400" Equip="1" Percent="100" Special="false"/>    ;Máscara Gatotkaca 1D
+<Item Index="27" Id="1104003012" Count="2592000" Equip="1" Percent="25" Special="false"/>    ;Máscara Sorriso Dourado 30D
+<Item Index="28" Id="1104003012" Count="86400" Equip="1" Percent="100" Special="false"/>    ;Máscara Sorriso Dourado 1D
+</List>

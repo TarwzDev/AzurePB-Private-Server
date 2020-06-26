@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="16"> ;Caixa Newborn2016
+<Item Index="0" Id="100003282" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;Famas G2 Newborn2016 60D
+<Item Index="0" Id="601002092" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Newborn2016 60D
+<Item Index="1" Id="300005176" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;Tactilite T2 Newborn2016 60D
+<Item Index="1" Id="601002092" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Newborn2016 60D
+<Item Index="2" Id="200004302" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;OA-93 Newborn2016 60D
+<Item Index="2" Id="601002092" Count="5184000" Equip="1" Percent="15" Special="false"/>     ;C. Python Newborn2016 60D
+<Item Index="3" Id="400006076" Count="5184000" Equip="1" Percent="15" Special="false"/>    ;M1887 Newborn2016 60D
+<Item Index="3" Id="601002092" Count="5184000" Equip="1" Percent="15" Special="false"/>    ;C. Python Newborn2016 60D
+<Item Index="4" Id="100003282" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;Famas G2 Newborn2016 30D
+<Item Index="4" Id="601002092" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Newborn2016 30D
+<Item Index="5" Id="300005176" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;Tactilite T2 Newborn2016 30D
+<Item Index="5" Id="601002092" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Newborn2016 30D
+<Item Index="6" Id="200004302" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;OA-93 Newborn2016 30D
+<Item Index="6" Id="601002092" Count="2592000" Equip="1" Percent="22" Special="false"/>     ;C. Python Newborn2016 30D
+<Item Index="7" Id="400006076" Count="2592000" Equip="1" Percent="22" Special="false"/>    ;M1887 Newborn2016 30D
+<Item Index="7" Id="601002092" Count="2592000" Equip="1" Percent="22" Special="false"/>    ;C. Python Newborn2016 30D
+<Item Index="8" Id="100003282" Count="604800" Equip="1" Percent="75" Special="false"/>     ;Famas G2 Newborn2016 7D
+<Item Index="9" Id="300005176" Count="604800" Equip="1" Percent="75" Special="false"/>     ;Tactilite T2 Newborn2016 7D
+<Item Index="10" Id="200004302" Count="604800" Equip="1" Percent="75" Special="false"/>    ;OA-93 Newborn2016 7D
+<Item Index="11" Id="400006076" Count="604800" Equip="1" Percent="75" Special="false"/>   ;M1887 Newborn2016 7D
+<Item Index="12" Id="100003282" Count="259200" Equip="1" Percent="100" Special="false"/>    ;Famas G2 Newborn2016 3D
+<Item Index="13" Id="300005176" Count="259200" Equip="1" Percent="100" Special="false"/>    ;Tactilite T2 Newborn2016 3D
+<Item Index="14" Id="200004302" Count="259200" Equip="1" Percent="100" Special="false"/>     ;OA-93 Newborn2016 3D
+<Item Index="15" Id="400006076" Count="259200" Equip="1" Percent="100" Special="false"/>    ;M1887 Newborn2016 3D
+<Item Index="16" Id="601002089" Count="15552000" Equip="1" Percent="30" Special="true"/>     ;MK.23 Blue Diamond 180D
+</List>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="30"> ; PBIC2015 Gacha
+<Item Index="0" Id="103219" Count="7776000" Equip="1" Percent="10" Special="false"/> ;AUG A3 PBIC2015 90D
+<Item Index="0" Id="800299" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Mask PBIC2015 Premium 90D
+<Item Index="1" Id="104216" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Kriss S.V PBIC2015 90D
+<Item Index="1" Id="800299" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Mask PBIC2015 Premium 90D
+<Item Index="2" Id="104218" Count="7776000" Equip="1" Percent="10" Special="false"/> ;P90 Ext PBIC2015 90D
+<Item Index="2" Id="800299" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Mask PBIC2015 Premium 90D
+<Item Index="3" Id="106058" Count="7776000" Equip="1" Percent="10" Special="false"/> ;M1887 PBIC2015 90D
+<Item Index="3" Id="800299" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Mask PBIC2015 Premium 90D
+<Item Index="4" Id="105120" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Cheytac M200 PBIC2015 90D
+<Item Index="4" Id="800299" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Mask PBIC2015 Premium 90D
+<Item Index="5" Id="301104" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Keris PBIC2015 90D
+<Item Index="5" Id="800299" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Mask PBIC2015 Premium 90D
+<Item Index="6" Id="202070" Count="7776000" Equip="1" Percent="10" Special="false"/> ;R.B 454 SS8M+S PBIC2015 90D
+<Item Index="6" Id="800299" Count="7776000" Equip="1" Percent="10" Special="false"/> ;Mask PBIC2015 Premium 90D
+
+
+<Item Index="7" Id="103219" Count="2592000" Equip="1" Percent="45" Special="false"/> ;AUG A3 PBIC2015 30D
+<Item Index="8" Id="104216" Count="2592000" Equip="1" Percent="45" Special="false"/> ;Kriss S.V PBIC2015 30D
+<Item Index="9" Id="104218" Count="2592000" Equip="1" Percent="45" Special="false"/> ;P90 Ext PBIC2015 30D
+<Item Index="10" Id="106058" Count="2592000" Equip="1" Percent="45" Special="false"/> ;M1887 PBIC2015 30D
+<Item Index="11" Id="105120" Count="2592000" Equip="1" Percent="45" Special="false"/> ;Cheytac M200 PBIC2015 30D
+<Item Index="12" Id="301104" Count="2592000" Equip="1" Percent="45" Special="false"/> ;Keris PBIC2015 30D
+<Item Index="13" Id="202070" Count="2592000" Equip="1" Percent="45" Special="false"/> ;R.B 454 SS8M+S PBIC2015 30D
+<Item Index="14" Id="800299" Count="2592000" Equip="1" Percent="45" Special="false"/> ;Mask PBIC2015 Premium 30D
+
+<Item Index="15" Id="103219" Count="604800" Equip="1" Percent="70" Special="false"/> ;AUG A3 PBIC2015 7D
+<Item Index="16" Id="104216" Count="604800" Equip="1" Percent="70" Special="false"/> ;Kriss S.V PBIC2015 7D
+<Item Index="17" Id="104218" Count="604800" Equip="1" Percent="70" Special="false"/> ;P90 Ext PBIC2015 7D
+<Item Index="18" Id="106058" Count="604800" Equip="1" Percent="70" Special="false"/> ;M1887 PBIC2015 7D
+<Item Index="19" Id="105120" Count="604800" Equip="1" Percent="70" Special="false"/> ;Cheytac M200 PBIC2015 7D
+<Item Index="20" Id="301104" Count="604800" Equip="1" Percent="70" Special="false"/> ;Keris PBIC2015 7D
+<Item Index="21" Id="202070" Count="604800" Equip="1" Percent="70" Special="false"/> ;R.B 454 SS8M+S PBIC2015 7D
+<Item Index="22" Id="800299" Count="604800" Equip="1" Percent="70" Special="false"/> ;Mask PBIC2015 Premium 7D
+
+<Item Index="23" Id="103219" Count="86400" Equip="1" Percent="90" Special="false"/> ;AUG A3 PBIC2015 1D
+<Item Index="24" Id="104216" Count="86400" Equip="1" Percent="90" Special="false"/> ;Kriss S.V PBIC2015 1D
+<Item Index="25" Id="104218" Count="86400" Equip="1" Percent="90" Special="false"/> ;P90 Ext PBIC2015 1D
+<Item Index="26" Id="106058" Count="86400" Equip="1" Percent="90" Special="false"/> ;M1887 PBIC2015 1D
+<Item Index="27" Id="105120" Count="86400" Equip="1" Percent="90" Special="false"/> ;Cheytac M200 PBIC2015 1D
+<Item Index="28" Id="301104" Count="86400" Equip="1" Percent="100" Special="false"/> ;Keris PBIC2015 1D
+<Item Index="29" Id="202070" Count="86400" Equip="1" Percent="100" Special="false"/> ;R.B 454 SS8M+S PBIC2015 1D
+<Item Index="30" Id="800299" Count="86400" Equip="1" Percent="100" Special="false"/> ;Mask PBIC2015 Premium 1D
+</List>

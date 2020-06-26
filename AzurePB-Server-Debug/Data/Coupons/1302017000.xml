@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="11"> ;Caixa Halloween 2016
+<Item Index="0" Id="100003300" Count="5184000" Equip="1" Percent="15" Special="false"/> ;AUG A3 Halloween 2016 60D
+<Item Index="0" Id="702001162" Count="5184000" Equip="1" Percent="15" Special="false"/> ;Halloween Hammer 60D
+
+<Item Index="1" Id="200004328" Count="5184000" Equip="1" Percent="15" Special="false"/> ;OA-93 Halloween 2016 60D
+<Item Index="1" Id="702001162" Count="5184000" Equip="1" Percent="15" Special="false"/> ;Halloween Hammer 60D
+
+<Item Index="2" Id="300005189" Count="5184000" Equip="1" Percent="15" Special="false"/> ;Cheytac M200 Halloween 2016 60D
+<Item Index="2" Id="702001162" Count="5184000" Equip="1" Percent="15" Special="false"/> ;Halloween Hammer 60D
+
+<Item Index="3" Id="100003300" Count="2592000" Equip="1" Percent="25" Special="false"/> ;AUG A3 Halloween 2016 30D
+<Item Index="3" Id="702001162" Count="2592000" Equip="1" Percent="25" Special="false"/> ;Halloween Hammer 30D
+
+<Item Index="4" Id="200004328" Count="2592000" Equip="1" Percent="25" Special="false"/> ;OA-93 Halloween 2016 30D
+<Item Index="4" Id="702001162" Count="2592000" Equip="1" Percent="25" Special="false"/> ;Halloween Hammer 30D
+
+<Item Index="5" Id="300005189" Count="2592000" Equip="1" Percent="25" Special="false"/> ;Cheytac M200 Halloween 2016 30D
+<Item Index="5" Id="702001162" Count="2592000" Equip="1" Percent="25" Special="false"/> ;Halloween Hammer 30D
+
+<Item Index="6" Id="100003300" Count="604800" Equip="1" Percent="75" Special="false"/> ;AUG A3 Halloween 2016 7D
+<Item Index="7" Id="200004328" Count="604800" Equip="1" Percent="75" Special="false"/> ;OA-93 Halloween 2016 7D
+<Item Index="8" Id="300005189" Count="604800" Equip="1" Percent="75" Special="false"/> ;Cheytac M200 Halloween 2016 7D
+
+<Item Index="9" Id="100003300" Count="259200" Equip="1" Percent="100" Special="false"/> ;AUG A3 Halloween 2016 3D
+<Item Index="10" Id="200004328" Count="259200" Equip="1" Percent="100" Special="false"/> ;OA-93 Halloween 2016 3D
+<Item Index="11" Id="300005189" Count="259200" Equip="1" Percent="100" Special="false"/> ;Cheytac M200 Halloween 2016 3D
+</List>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="19"> ;Premium AUG Box
+<Item Index="0" Id="100003158" Count="86400" Equip="1" Percent="39" Special="false"/> ;AUG A3 W.O.E 1D
+<Item Index="1" Id="100003104" Count="86400" Equip="1" Percent="50" Special="false"/> ;AUG A3 GSL 1D
+<Item Index="2" Id="100003037" Count="86400" Equip="1" Percent="50" Special="false"/> ;AUG A3 Gold 1D
+<Item Index="3" Id="300005243" Count="86400" Equip="1" Percent="75" Special="false"/> ;AUG A3 Fear 1D
+<Item Index="4" Id="100003093" Count="86400" Equip="1" Percent="27" Special="false"/> ;AUG A3 Blaze 1D
+<Item Index="5" Id="100003193" Count="86400" Equip="1" Percent="17" Special="false"/> ;AUG A3 Lion 1D
+<Item Index="6" Id="100003235" Count="86400" Equip="1" Percent="41" Special="false"/> ;AUG A3 Obsidian 1D
+<Item Index="7" Id="100003228" Count="86400" Equip="1" Percent="35" Special="false"/> ;AUG A3 Camo Soldier 1D
+<Item Index="8" Id="100003159" Count="86400" Equip="1" Percent="16" Special="false"/> ;AUG A3 PBIC 2014 1D
+<Item Index="9" Id="100003063" Count="86400" Equip="1" Percent="17" Special="false"/> ;AUG A3 ES 1D
+<Item Index="10" Id="100003158" Count="2592000" Equip="1" Percent="39" Special="false"/> ;AUG A3 W.O.E 30D
+<Item Index="11" Id="100003104" Count="2592000" Equip="1" Percent="29" Special="false"/> ;AUG A3 GSL 30D
+<Item Index="12" Id="100003037" Count="2592000" Equip="1" Percent="23" Special="false"/> ;AUG A3 Gold 30D
+<Item Index="13" Id="300005243" Count="2592000" Equip="1" Percent="15" Special="false"/> ;AUG A3 Fear 30D
+<Item Index="14" Id="100003093" Count="2592000" Equip="1" Percent="27" Special="false"/> ;AUG A3 Blaze 30D
+<Item Index="15" Id="100003193" Count="2592000" Equip="1" Percent="17" Special="false"/> ;AUG A3 Lion 30D
+<Item Index="16" Id="100003235" Count="2592000" Equip="1" Percent="11" Special="false"/> ;AUG A3 Obsidian 30D
+<Item Index="17" Id="100003228" Count="2592000" Equip="1" Percent="35" Special="false"/> ;AUG A3 Camo Soldier 30D
+<Item Index="18" Id="100003159" Count="2592000" Equip="1" Percent="16" Special="false"/> ;AUG A3 PBIC 2014 30D
+<Item Index="19" Id="100003063" Count="2592000" Equip="1" Percent="17" Special="false"/> ;AUG A3 ES 30D
+</List>

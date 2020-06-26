@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="5"> ;Caixa de Máscaras
+<Item Index="0" Id="1104003096" Count="100" Equip="1" Percent="100" Special="false"/> ;Máscara Troll 1d
+<Item Index="1" Id="1104003098" Count="100" Equip="1" Percent="100" Special="false"/> ;Máscara Fuuu 1d
+<Item Index="2" Id="1104003097" Count="100" Equip="1" Percent="90" Special="false"/> ;Máscara Determinado 1d
+<Item Index="3" Id="1104003034" Count="86400" Equip="1" Percent="85" Special="false"/> ;Rorschach Mask 1d
+<Item Index="4" Id="1104003078" Count="86400" Equip="1" Percent="75" Special="false"/> ;Máscara Chinesa Vermelha 1d
+<Item Index="5" Id="1104003079" Count="86400" Equip="1" Percent="70" Special="false"/> ;Red Eyes Mask 1d
+</List>

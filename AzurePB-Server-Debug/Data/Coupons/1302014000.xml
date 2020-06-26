@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="23"> ;Caixa Woody A
+<Item Index="0" Id="100003280" Count="5184000" Equip="1" Percent="30" Special="false"/> ;AUG A3 Woody 60D
+<Item Index="1" Id="100003281" Count="5184000" Equip="1" Percent="30" Special="false"/> ;XM8 Woody 60D
+<Item Index="2" Id="400006075" Count="5184000" Equip="1" Percent="30" Special="false"/> ;M1887 Woody 60D
+<Item Index="3" Id="100003280" Count="2592000" Equip="1" Percent="50" Special="false"/> ;AUG A3 Woody 30D
+<Item Index="4" Id="100003281" Count="2592000" Equip="1" Percent="50" Special="false"/> ;XM8 Woody 30D
+<Item Index="5" Id="400006075" Count="2592000" Equip="1" Percent="50" Special="false"/> ;M1887 Woody 30D
+<Item Index="6" Id="200004024" Count="2592000" Equip="1" Percent="50" Special="false"/> ;MP5K G D. 30D
+<Item Index="7" Id="100003043" Count="2592000" Equip="1" Percent="50" Special="false"/> ;M4 SR-16 Lv2 30D
+<Item Index="8" Id="100003209" Count="2592000" Equip="1" Percent="50" Special="false"/> ;Vz.52 BlackPearl 30D
+<Item Index="9" Id="100003115" Count="2592000" Equip="1" Percent="50" Special="false"/> ;AN-94 30D
+<Item Index="10" Id="100003280" Count="604800" Equip="1" Percent="70" Special="false"/> ;AUG A3 Woody 7D
+<Item Index="11" Id="100003281" Count="604800" Equip="1" Percent="70" Special="false"/> ;XM8 Woody 7D
+<Item Index="12" Id="400006075" Count="604800" Equip="1" Percent="70" Special="false"/> ;M1887 Woody 7D
+<Item Index="13" Id="200004024" Count="604800" Equip="1" Percent="70" Special="false"/> ;MP5K G D. 7D
+<Item Index="14" Id="100003043" Count="604800" Equip="1" Percent="70" Special="false"/> ;M4 SR-16 Lv2 7D
+<Item Index="15" Id="100003209" Count="604800" Equip="1" Percent="70" Special="false"/> ;Vz.52 BlackPearl 7D
+<Item Index="16" Id="100003115" Count="604800" Equip="1" Percent="70" Special="false"/> ;AN-94 7D
+<Item Index="17" Id="100003280" Count="259200" Equip="1" Percent="100" Special="false"/> ;AUG A3 Woody 3D
+<Item Index="18" Id="100003281" Count="259200" Equip="1" Percent="100" Special="false"/> ;XM8 Woody 3D
+<Item Index="19" Id="400006075" Count="259200" Equip="1" Percent="100" Special="false"/> ;M1887 Woody 3D
+<Item Index="20" Id="200004024" Count="259200" Equip="1" Percent="100" Special="false"/> ;MP5K G D. 3D
+<Item Index="21" Id="100003043" Count="259200" Equip="1" Percent="100" Special="false"/> ;M4 SR-16 Lv2 3D
+<Item Index="22" Id="100003209" Count="259200" Equip="1" Percent="100" Special="false"/> ;Vz.52 BlackPearl 3D
+<Item Index="23" Id="100003115" Count="259200" Equip="1" Percent="100" Special="false"/> ;AN-94 3D
+</List>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="8"> ;Gold Bomb
+<Item Index="0" Id="0" Count="500" Equip="21" Percent="100" Special="false"/> ;500 Gold
+<Item Index="1" Id="0" Count="1000" Equip="21" Percent="90" Special="false"/> ;1000 Gold
+<Item Index="2" Id="0" Count="3000" Equip="21" Percent="80" Special="false"/> ;3000 Gold
+<Item Index="3" Id="0" Count="5000" Equip="21" Percent="70" Special="false"/> ;5000 Gold
+<Item Index="4" Id="0" Count="10000" Equip="21" Percent="60" Special="false"/> ;10000 Gold
+<Item Index="5" Id="0" Count="30000" Equip="21" Percent="50" Special="false"/> ;30000 Gold
+<Item Index="6" Id="0" Count="50000" Equip="21" Percent="40" Special="false"/> ;50000 Gold
+<Item Index="7" Id="0" Count="100000" Equip="21" Percent="30" Special="false"/> ;100000 Gold
+<Item Index="8" Id="0" Count="200000" Equip="21" Percent="30" Special="false"/> ;200000 Gold
+</List>

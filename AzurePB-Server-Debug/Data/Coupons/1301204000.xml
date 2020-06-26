@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="33"> Platinum Box 
+<Item Index="0" Id="300005032" Count="604800" Equip="1" Percent="10" Special="false"/> ;Barrett M82A1 7D
+<Item Index="1" Id="100003063" Count="604800" Equip="1" Percent="20" Special="false"/> ;AUG A3 ES 7D
+<Item Index="2" Id="200018034" Count="604800" Equip="1" Percent="32" Special="false"/> ;OA-93 Gold 7D
+<Item Index="3" Id="200004075" Count="604800" Equip="1" Percent="11" Special="false"/> ;P90 Gold 7D
+<Item Index="4" Id="300005032" Count="86400" Equip="1" Percent="7" Special="false"/> ;Barrett M82A1 1D
+<Item Index="5" Id="100003063" Count="86400" Equip="1" Percent="10" Special="false"/> ;AUG A3 ES 1D
+<Item Index="6" Id="200018034" Count="86400" Equip="1" Percent="20" Special="false"/> ;OA-93 Gold 1D
+<Item Index="7" Id="200004075" Count="86400" Equip="1" Percent="32" Special="false"/> ;P90 Gold 1D
+<Item Index="8" Id="300005121" Count="604800" Equip="1" Percent="11" Special="false"/> ;Cheytac M200 Gold 7D
+<Item Index="9" Id="300005121" Count="86400" Equip="1" Percent="17" Special="false"/> ;Cheytac M200 Gold 1D
+<Item Index="10" Id="1104003206" Count="604800" Equip="1" Percent="17" Special="false"/> ;Mech Mask 7D
+<Item Index="11" Id="1104003206" Count="86400" Equip="1" Percent="55" Special="false"/> ;Mech Mask 1D
+<Item Index="12" Id="1104003012" Count="604800" Equip="1" Percent="17" Special="false"/> ;Golden Smile Mask 7D
+<Item Index="13" Id="1104003012" Count="86400" Equip="1" Percent="55" Special="false"/> ;Golden Smile Mask 1D
+<Item Index="14" Id="1104003039" Count="604800" Equip="1" Percent="17" Special="false"/> ;Red Devil Mask 7D
+<Item Index="15" Id="1104003039" Count="86400" Equip="1" Percent="55" Special="false"/> ;Red Devil Mask 1D
+<Item Index="16" Id="1104003251" Count="604800" Equip="1" Percent="17" Special="false"/> ;Pierrot Mask 7D
+<Item Index="17" Id="1104003251" Count="86400" Equip="1" Percent="55" Special="false"/> ;Pierrot Mask 1D
+<Item Index="18" Id="1104003101" Count="604800" Equip="1" Percent="17" Special="false"/> ;Frail Skull Gold Mask 7D
+<Item Index="19" Id="1104003101" Count="86400" Equip="1" Percent="55" Special="false"/> ;Frail Skull Gold Mask 1D
+<Item Index="20" Id="702001107" Count="604800" Equip="1" Percent="17" Special="false"/> ;Dual Kunai 7D
+<Item Index="21" Id="702001107" Count="86400" Equip="1" Percent="55" Special="false"/> ;Dual Kunai 1D
+<Item Index="22" Id="702001058" Count="604800" Equip="1" Percent="17" Special="false"/> ;Chinese Cleaver 7D
+<Item Index="23" Id="702001058" Count="86400" Equip="1" Percent="55" Special="false"/> ;Chinese Cleaver 1D
+<Item Index="24" Id="601002024" Count="604800" Equip="1" Percent="17" Special="false"/> ;Kriss Vector SDP 7D
+<Item Index="25" Id="601002024" Count="86400" Equip="1" Percent="55" Special="false"/> ;Kriss Vector SDP 1D
+<Item Index="26" Id="601002071" Count="604800" Equip="1" Percent="17" Special="false"/> ;Glock 18 Gold 7D
+<Item Index="27" Id="601002071" Count="86400" Equip="1" Percent="55" Special="false"/> ;Glock 18 Gold 1D
+<Item Index="28" Id="300005021" Count="604800" Equip="1" Percent="17" Special="false"/> ;Rangemaster .338 7D
+<Item Index="29" Id="300005021" Count="86400" Equip="1" Percent="55" Special="false"/> ;Rangemaster .338 1D
+<Item Index="30" Id="100003102" Count="604800" Equip="1" Percent="17" Special="false"/> ;HK-417 7D
+<Item Index="31" Id="100003102" Count="86400" Equip="1" Percent="55" Special="false"/> ;HK-417 1D
+<Item Index="32" Id="400006047" Count="604800" Equip="1" Percent="17" Special="false"/> ;Cerberus 7D
+<Item Index="33" Id="400006047" Count="86400" Equip="1" Percent="55" Special="false"/> ;Cerberus 1D
+</List>

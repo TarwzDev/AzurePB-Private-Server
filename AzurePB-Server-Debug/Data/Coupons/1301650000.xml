@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="6"> ;Caixa aleatória das tropas da M4A1 Elite
+<Item Index="0" Id="100003114" Count="2592000" Equip="1" Percent="30" Special="false"/> ;M4A1 Elite 30d
+<Item Index="1" Id="100003114" Count="604800" Equip="1" Percent="50" Special="false"/> ;M4A1 Elite 7d
+<Item Index="2" Id="100003114" Count="259200" Equip="1" Percent="70" Special="false"/> ;M4A1 Elite 3d
+<Item Index="3" Id="100003114" Count="86400" Equip="1" Percent="90" Special="false"/> ;M4A1 Elite 1d
+<Item Index="4" Id="100003023" Count="86400" Equip="1" Percent="100" Special="false"/> ;M4A1 G. 1d
+<Item Index="5" Id="100003021" Count="86400" Equip="1" Percent="100" Special="false"/> ;M4A1 Sl. 1d
+<Item Index="6" Id="0" Count="1000" Equip="21" Percent="100" Special="false"/> ;1,000 pontos
+</List>

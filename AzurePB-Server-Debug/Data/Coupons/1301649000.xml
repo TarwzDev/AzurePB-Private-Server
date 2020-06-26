@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="6"> ;Caixa aleatória das tropas da G36C Elite
+<Item Index="0" Id="100003146" Count="2592000" Equip="1" Percent="30" Special="false"/> ;G36C Elite 30d
+<Item Index="1" Id="100003146" Count="604800" Equip="1" Percent="50" Special="false"/> ;G36C Elite 7d
+<Item Index="2" Id="100003146" Count="259200" Equip="1" Percent="70" Special="false"/> ;G36C Elite 3d
+<Item Index="3" Id="100003146" Count="86400" Equip="1" Percent="90" Special="false"/> ;G36C Elite 1d
+<Item Index="4" Id="100003029" Count="86400" Equip="1" Percent="100" Special="false"/> ;G36C Sl. 1d
+<Item Index="5" Id="100003038" Count="86400" Equip="1" Percent="100" Special="false"/> ;G36C Ext. D 1d
+<Item Index="6" Id="0" Count="1000" Equip="21" Percent="100" Special="false"/> ;1,000 pontos
+</List>

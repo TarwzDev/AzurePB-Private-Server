@@ -1,0 +1,18 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                                POINT BLANK AUTH                               
+                                                                               
+                                                                               
+_______________________________ 13.12.2019 02:14 _______________________________
+19:33:28 [Error] System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at PointBlank.Auth.Data.Sync.AuthSync.Start()
+19:33:28 [Error] System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at PointBlank.Auth.AuthManager.Start()
+19:33:28 [Info] Text Encode: Thai (Windows)
+19:33:28 [Info] Mode: Public
+19:33:28 [Debug] Active Server. (08.06.20 19:33:28)

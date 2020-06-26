@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="15"> ;Caixa Beast
+<Item Index="0" Id="100003256" Count="5184000" Equip="1" Percent="20" Special="false"/> ;AUG A3 Beast 60D
+<Item Index="1" Id="100003256" Count="2592000" Equip="1" Percent="35" Special="false"/> ;AUG A3 Beast 30D
+<Item Index="2" Id="100003256" Count="864000" Equip="1" Percent="65" Special="false"/> ;AUG A3 Beast 10D
+<Item Index="3" Id="100003256" Count="604800" Equip="1" Percent="100" Special="false"/> ;AUG A3 Beast 7D
+<Item Index="4" Id="300005151" Count="5184000" Equip="1" Percent="20" Special="false"/> ;Cheytac M200 Beast 60D
+<Item Index="5" Id="300005151" Count="2592000" Equip="1" Percent="35" Special="false"/> ;Cheytac M200 Beast 30D
+<Item Index="6" Id="300005151" Count="864000" Equip="1" Percent="65" Special="false"/> ;Cheytac M200 Beast 10D
+<Item Index="7" Id="300005151" Count="604800" Equip="1" Percent="100" Special="false"/> ;Cheytac M200 Beast 7D
+<Item Index="8" Id="200004258" Count="5184000" Equip="1" Percent="20" Special="false"/> ;Kriss S.V Beast 60D
+<Item Index="9" Id="200004258" Count="2592000" Equip="1" Percent="35" Special="false"/> ;Kriss S.V Beast 30D
+<Item Index="10" Id="200004258" Count="864000" Equip="1" Percent="65" Special="false"/> ;Kriss S.V Beast 10D
+<Item Index="11" Id="200004258" Count="604800" Equip="1" Percent="100" Special="false"/> ;Kriss S.V Beast 7D
+<Item Index="12" Id="400006067" Count="5184000" Equip="1" Percent="20" Special="false"/> ;M1887 Beast 60D
+<Item Index="13" Id="400006067" Count="2592000" Equip="1" Percent="35" Special="false"/> ;M1887 Beast 30D
+<Item Index="14" Id="400006067" Count="864000" Equip="1" Percent="65" Special="false"/> ;M1887 Beast 10D
+<Item Index="15" Id="400006067" Count="604800" Equip="1" Percent="100" Special="false"/> ;M1887 Beast 7D
+</List>

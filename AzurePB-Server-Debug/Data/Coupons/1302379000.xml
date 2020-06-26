@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="39"> ;Premium Knife Box
+<Item Index="0" Id="702001137" Count="86400" Equip="1" Percent="39" Special="false"/> ;Amok Kukri PBWC 2016 1D
+<Item Index="1" Id="702001143" Count="86400" Equip="1" Percent="50" Special="false"/> ;Amok Kukri Poison 1D
+<Item Index="2" Id="702001138" Count="86400" Equip="1" Percent="50" Special="false"/> ;Combat Machete PBWC 2016 1D
+<Item Index="3" Id="702001043" Count="86400" Equip="1" Percent="75" Special="false"/> ;Combat Machete G 1D
+<Item Index="4" Id="702015010" Count="86400" Equip="1" Percent="27" Special="false"/> ;Bone Knife Camo Soldier 1D
+<Item Index="5" Id="702015014 " Count="86400" Equip="1" Percent="17" Special="false"/> ;Bone Knife ES-2 1D
+<Item Index="6" Id="702001052" Count="86400" Equip="1" Percent="41" Special="false"/> ;Fang Blade Brazuca 1D
+<Item Index="7" Id="702001094" Count="86400" Equip="1" Percent="35" Special="false"/> ;Fang Blade PBST 1D
+<Item Index="8" Id="702001104" Count="86400" Equip="1" Percent="16" Special="false"/> ;Keris PBIC2015 1D
+<Item Index="9" Id="702001071" Count="86400" Equip="1" Percent="17" Special="false"/> ;Goat hammer 1D
+<Item Index="10" Id="702001069" Count="86400" Equip="1" Percent="90" Special="false"/> ;Ice Fork 1D
+<Item Index="11" Id="702001080" Count="86400" Equip="1" Percent="100" Special="false"/> ;Spetsnaz Field Shovel 1D
+<Item Index="12" Id="702001080" Count="86400" Equip="1" Percent="100" Special="false"/> ;Royal Spetsnaz Field Shovel 1D
+<Item Index="13" Id="702001103" Count="86400" Equip="1" Percent="100" Special="false"/> ;Bamboo Spear 1D
+<Item Index="14" Id="702001083" Count="86400" Equip="1" Percent="100" Special="false"/> ;Night Dagger 1D
+<Item Index="15" Id="702015012" Count="86400" Equip="1" Percent="100" Special="false"/> ;Dual Kunai Serpent 1D
+<Item Index="16" Id="702001066" Count="86400" Equip="1" Percent="100" Special="false"/> ;Death Scythe 1D
+<Item Index="17" Id="702001058" Count="86400" Equip="1" Percent="100" Special="false"/> ;Chinese Cleaver 1D
+<Item Index="18" Id="702001122" Count="86400" Equip="1" Percent="100" Special="false"/> ;Butterfly Knife 1D
+<Item Index="19" Id="702001114" Count="86400" Equip="1" Percent="100" Special="false"/> ;BallisticKnife Spy Deluxe 1D
+<Item Index="20" Id="702001137" Count="604800" Equip="1" Percent="51" Special="false"/> ;Amok Kukri PBWC 2016 7D
+<Item Index="21" Id="702001143" Count="604800" Equip="1" Percent="55" Special="false"/> ;Amok Kukri Poison 7D
+<Item Index="22" Id="702001138" Count="604800" Equip="1" Percent="51" Special="false"/> ;Combat Machete PBWC 2016 7D
+<Item Index="23" Id="702001043" Count="604800" Equip="1" Percent="55" Special="false"/> ;Combat Machete G 7D
+<Item Index="24" Id="702015010" Count="604800" Equip="1" Percent="55" Special="false"/> ;Bone Knife Camo Soldier 7D
+<Item Index="25" Id="702015014 " Count="604800" Equip="1" Percent="55" Special="false"/> ;Bone Knife ES-2 7D
+<Item Index="26" Id="702001052" Count="604800" Equip="1" Percent="51" Special="false"/> ;Fang Blade Brazuca 7D
+<Item Index="27" Id="702001094" Count="604800" Equip="1" Percent="55" Special="false"/> ;Fang Blade PBST 7D
+<Item Index="28" Id="702001104" Count="604800" Equip="1" Percent="55" Special="false"/> ;Keris PBIC2015 7D
+<Item Index="29" Id="702001071" Count="604800" Equip="1" Percent="55" Special="false"/> ;Goat hammer 7D
+<Item Index="30" Id="702001069" Count="604800" Equip="1" Percent="55" Special="false"/> ;Ice Fork 7D
+<Item Index="31" Id="702001080" Count="604800" Equip="1" Percent="55" Special="false"/> ;Spetsnaz Field Shovel 7D
+<Item Index="32" Id="702001080" Count="604800" Equip="1" Percent="55" Special="false"/> ;Royal Spetsnaz Field Shovel
+<Item Index="33" Id="702001103" Count="604800" Equip="1" Percent="55" Special="false"/> ;Bamboo Spear 7D
+<Item Index="34" Id="702001083" Count="604800" Equip="1" Percent="55" Special="false"/> ;Night Dagger 7D
+<Item Index="35" Id="702015012" Count="604800" Equip="1" Percent="51" Special="false"/> ;Dual Kunai Serpent 7D
+<Item Index="36" Id="702001066" Count="604800" Equip="1" Percent="51" Special="false"/> ;Death Scythe 7D
+<Item Index="37" Id="702001058" Count="604800" Equip="1" Percent="51" Special="false"/> ;Chinese Cleaver 7D
+<Item Index="38" Id="702001122" Count="604800" Equip="1" Percent="51" Special="false"/> ;Butterfly Knife 7D
+<Item Index="39" Id="702001114" Count="604800" Equip="1" Percent="51" Special="false"/> ;BallisticKnife Spy Deluxe 7D
+</List>

@@ -1,0 +1,13 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                                POINT BLANK AUTH                               
+                                                                               
+                                                                               
+_______________________________ 13/12/2562 00:55 _______________________________
+10:51:07 [Info] Text Encode: Thai (Windows)
+10:51:07 [Info] Mode: Public
+10:51:07 [Debug] Active Server. (13/12/62 10:51:07)
+10:51:16 [Error] System.OverflowException: Value was either too large or too small for a UInt32.
+   at System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at PointBlank.Core.Managers.Events.EventVisitSyncer.getRunningEvent()
