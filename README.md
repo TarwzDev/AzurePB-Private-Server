@@ -6,6 +6,10 @@
 * 3.24
     * Cliente pública, você a encontra na RAGEZONE.
     
+## Status do servidor
+
+* 90%
+    
 ## Banco de dados (DB)
 
 O servidor acompanha diversas databases, inclusive as oficiais do servidor com bugs corrigidos.
