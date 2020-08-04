@@ -4,4 +4,4 @@
 ## Versão do cliente
 
 * 3.24
-    * Cliente pública, você a encontra na RageZone.
+    * Cliente pública, você a encontra na RAGEZONE.
