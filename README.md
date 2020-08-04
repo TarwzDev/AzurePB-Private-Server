@@ -1,14 +1,15 @@
 # (Debug) Azure PB Private Server
 > Servidor privado de Point Blank, utilizando a source da RAGEZONE, alguns bugs do servidor foram corrigidos.
 
+## Status do servidor
+
+* 92%
+    * Trata-se do estado dos erros e bugs fixados do servidor.
+
 ## Versão do cliente
 
 * 3.24
     * Cliente pública, você a encontra na RAGEZONE.
-    
-## Status do servidor
-
-* 90%
     
 ## Banco de dados (DB)
 
