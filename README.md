@@ -1,4 +1,4 @@
-# (Debug) Azure PB Private Server
+# (Debug) AzurePB Private Server
 > Servidor privado de Point Blank, utilizando a source da RAGEZONE, alguns bugs do servidor foram corrigidos.
 
 ## (Launcher) Como iniciar o jogo e realizar login na conta
