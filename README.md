@@ -3,8 +3,11 @@
 
 ## Status do servidor
 
-* 92%
-    * Trata-se do estado dos erros e bugs fixados do servidor.
+* 92% fixado.
+    
+## Status do banco de dados
+
+* 100% fixado.
 
 ## Versão do cliente
 
