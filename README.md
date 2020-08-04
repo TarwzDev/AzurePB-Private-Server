@@ -9,4 +9,4 @@
 ## Banco de dados (DB)
 
 O servidor acompanha diversas databases, inclusive as oficiais do servidor com bugs corrigidos.
-> Recomendada: Evolution 2.sql
+> Banco de dados fixado e recomendado: Evolution 2.sql
