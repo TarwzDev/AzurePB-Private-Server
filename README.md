@@ -21,4 +21,4 @@ O servidor acompanha diversas databases, inclusive as oficiais do servidor com b
 
 ## AVISO
 
-É recomendado realizar algumas limpezas em certas tabelas do banco de dados para que o mesmo fique mais otimizado.
+É recomendado realizar algumas limpezas de registros em certas tabelas do banco de dados para que o mesmo fique mais otimizado.
