@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/TarwzDev/csgoimguid3d/issues"><img src="https://img.shields.io/github/issues/ibamboofox/aniware-internal?style=for-the-badge"></a>
+  <a href="https://github.com/TarwzDev/csgoimguid3d/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ibamboofox/aniware-internal?style=for-the-badge"></a>
+</p>
+
 # (Debug) Azure PB Private Server
 > Servidor privado de Point Blank, utilizando a source da RAGEZONE, alguns bugs do servidor foram corrigidos.
 
