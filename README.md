@@ -18,3 +18,4 @@
 
 O servidor acompanha diversas databases, inclusive as oficiais do servidor com bugs corrigidos.
 > Banco de dados fixado pela equipe e recomendado para uso: Evolution 2.sql
+> OBS: É recomendado realizar algumas limpezas em certas tabelas do banco de dados para que o mesmo fique mais otimizado.
