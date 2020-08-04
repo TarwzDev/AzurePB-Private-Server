@@ -1,7 +1,7 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : Yusqa
+ Source Server         : Azure
  Source Server Type    : PostgreSQL
  Source Server Version : 90426
  Source Host           : localhost:5432
