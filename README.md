@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://github.com/TarwzDev/csgoimguid3d/issues"><img src="https://img.shields.io/github/issues/ibamboofox/aniware-internal?style=for-the-badge"></a>
   <a href="https://github.com/TarwzDev/csgoimguid3d/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ibamboofox/aniware-internal?style=for-the-badge"></a>
 </p>
 
