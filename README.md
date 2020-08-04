@@ -17,7 +17,7 @@ Já que o cliente do jogo é sem tela de login, o mesmo precisa possuir um coman
 ## Versão do cliente
 
 * 3.24
-    * Cliente pública, você a encontra na RAGEZONE.
+    * Cliente público, você o encontra na RAGEZONE.
     
 ## Banco de dados (DB)
 
